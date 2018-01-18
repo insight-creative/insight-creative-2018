@@ -1,6 +1,6 @@
-# Insight Website - 2018 Edition
+# 🌎 Insight Website - 2018 Edition
 
-## System Preparation
+## 💻 System Preparation
 
 To use this starter project, you'll need the following things installed on your machine.
 
@@ -9,12 +9,12 @@ To use this starter project, you'll need the following things installed on your 
 3. [GulpJS](https://github.com/gulpjs/gulp) - `$ npm install -g gulp` (mac users may need sudo)
 4. [GraphicsMagick](http://www.graphicsmagick.org/download.html) - this is needed to run gulp-resize
 
-## Local Installation
+## 💾 Local Installation
 
 1. Clone this repo, or download it into a directory of your choice.
 2. Inside the directory, run `npm install`. This will install all of the dependencies.
 
-## File Structure
+## 📁 File Structure
 
 Before running any commands, lets understand the file directories.
 
@@ -41,7 +41,7 @@ The **_site** directory is the compiled directory with all of the final files. T
 ### Styles
 Do not make style changes in the **css** directory. The styles for the website are all in the **_scss** directory. Each individual page has had its own style sheet setup for styles unique to that page, and then there are sheets setup for general styling like the footer or typography. The **_variables.scss** sheet has site wide variables that can be used in your scss sheets.
 
-## Usage
+## 🏃‍♂️ Usage
 
 ### 1. Resizing Images
 
@@ -83,7 +83,7 @@ Push changes to GitHub. **Note: When you push to github it instantiates a new bu
 When you push a new commit to github Netlify will automatically start running a new build of the site and then push that version live when it is complete. You can make sure the build worked by [logging in](https://app.netlify.com/) and going to the **Deploys** page for Insight 2018. You can also rollback to previous versions or stop auto publishing new builds. For more information on how to use Netlify refer to their [documentation](https://www.netlify.com/docs/).
 
 
-## Adding a Blog Post
+## ✏️ Adding a Blog Post
 
 A blog post will have the following information at the top of the development file:
 
@@ -113,7 +113,7 @@ tag: blog
 
 *The layout and tag will both always remain blog*
 
-### Images
+### 🖼️ Images
 
 Each image should be named the same as the blog and then numbered sequentially and placed in the **unsized-img** directory followed by the **blog** directory.
 
@@ -180,7 +180,7 @@ tags:
 
 *The layout will always remain project*
 
-### Images
+### 📷 Images
 
 The images for a project should go in the **unsized-img** directory, followed by the **projects** folder, and then inside a directory with the exact same name as the project. Each image should be named the same as the project and then given a name relative to what its showing. Look at previous projects for example.
 
@@ -205,7 +205,7 @@ srcset="/img/projects/vans-lumber-photography/vans-photography5-2400.jpg 2400w,
 /img/projects/vans-lumber-photography/vans-photography5-400.jpg 400w" />
 ```
 
-### Image Styling
+### 🖌️ Image Styling
 
 There are a few special ways setup to showcase the images in a project.
 
@@ -315,7 +315,7 @@ When you have a very tall image that will need some scrolling and you don't want
 
 ```
 
-## Employees
+## 👯 Employees
 
 The list of employees and their information and styling can be found under the *_data* directory in the *staff.yml* file.
 
@@ -339,7 +339,7 @@ The list of employees and their information and styling can be found under the *
 
 **image1:** The default and first image that shows for that employee. This is followed by the second and third when hovering.
 
-## Play
+## 🎮 Play
 
 There are three types of types of posts to be made under the play section. Each post can be one of three sizes:
 
