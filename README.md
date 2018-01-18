@@ -4,7 +4,7 @@
 
 To use this starter project, you'll need the following things installed on your machine.
 
-1. [Jekyll](http://jekyllrb.com/) - `$ gem install jekyll`
+1. [Jekyll](http://jekyllrb.com/) - `$ gem install jekyll` (Built on version 3.3.1)
 2. [NodeJS](http://nodejs.org) - use the installer.
 3. [GulpJS](https://github.com/gulpjs/gulp) - `$ npm install -g gulp` (mac users may need sudo)
 4. [GraphicsMagick](http://www.graphicsmagick.org/download.html) - this is needed to run gulp-resize
@@ -12,7 +12,7 @@ To use this starter project, you'll need the following things installed on your 
 ## Local Installation
 
 1. Clone this repo, or download it into a directory of your choice.
-2. Inside the directory, run `npm install`.
+2. Inside the directory, run `npm install`. This will install all of the dependencies.
 
 ## File Structure
 
@@ -32,6 +32,8 @@ All of the original images are located inside **unsized-img**, the reason for th
 
 ### Data
 Both the employee list and the services list can both be found under the **_data** directory.
+### Play
+All play posts are located inside the **play/_posts** directory.
 
 ### Site
 The **_site** directory is the compiled directory with all of the final files. The contents of this folder is what will be uploaded to the actual website.
@@ -65,7 +67,7 @@ You can now run `gulp` which will automatically run jekyll, open your site in th
 gulp
 ```
 
-### 4. Compress Script Files
+### 4. Compress Script Files (Deprecated: since the site is built live off github this step should no longer be required.)
 
 Once all of your changes are made, run `gulp compress` to minify the javascript files.
 
@@ -73,9 +75,12 @@ Once all of your changes are made, run `gulp compress` to minify the javascript 
 gulp compress
 ```
 
-### 5. Push to GitHub and FTP
+### 5. Push to GitHub
 
-Push changes to GitHub and upload new files to site.
+Push changes to GitHub. **Note: When you push to github it instantiates a new build on [Netlify](https://app.netlify.com/).**
+### 6. Check Netlify
+
+When you push a new commit to github Netlify will automatically start running a new build of the site and then push that version live when it is complete. You can make sure the build worked by [logging in](https://app.netlify.com/) and going to the **Deploys** page for Insight 2018. You can also rollback to previous versions or stop auto publishing new builds. For more information on how to use Netlify refer to their [documentation](https://www.netlify.com/docs/).
 
 
 ## Adding a Blog Post
@@ -160,9 +165,9 @@ tags:
 **Back-color2:** Second color in the background gradient.
 
 **Tags:** The list of categories the project falls under. List any that are relevant to the project, these include:
-- Audio Ads
+- Audio
 - Campaigns
-- Case Studies
+- Case Study
 - Identity
 - Media Buying
 - Packaging
@@ -171,7 +176,7 @@ tags:
 - Public Relations
 - Social Media
 - Video
-- Web/Digital
+- Web Digital
 
 *The layout will always remain project*
 
@@ -333,3 +338,92 @@ The list of employees and their information and styling can be found under the *
 **Color:** The color theme to use for that employees display. These are defined in the *_culture.scss* style sheet.
 
 **image1:** The default and first image that shows for that employee. This is followed by the second and third when hovering.
+
+## Play
+
+There are three types of types of posts to be made under the play section. Each post can be one of three sizes:
+
+- full
+- one-third
+- two-thirds
+
+### Quotes
+
+A quote post will look like below:
+
+```
+---
+layout: play-design
+title: Henry Ford Quote
+quote: "All men who have achieved great things have been great dreamers."
+person: "Orison Swett Marden"
+size: one-third
+type: quote
+---
+
+```
+
+**Title:** Give the quote a title, this won't be shown.
+
+**Quote:** The actual quote itself, put in quotes.
+
+**Person:** The person who is given credit for saying the quote.
+
+**Size:** This is the size of the post. (full, one-third, two-thirds)
+
+**Type:** The type of post, in this case its a quote.
+
+### Good Read
+
+A good read will look like below:
+
+```
+---
+layout: play-design
+title: Print Isn't Dead
+site: "adweek.com"
+link: "http://www.adweek.com/creativity/print-isnt-dead-these-7-great-ads-showed-the-medium-at-its-best-in-2017/?utm_campaign=nl_3&utm_source=sailthru&utm_medium=email&utm_term=AWK_NewDaily&s_id=59d3f478b84a9998068b4c71"
+size: two-thirds
+type: article
+---
+```
+
+**Title:** Give the article a title, this WILL be shown.
+
+**Site:** The name of the website the article came from.
+
+**Link:** URL of the article
+
+**Size:** This is the size of the post. (full, one-third, two-thirds)
+
+**Type:** The type of post, in this case its an article.
+
+### Design
+
+A design post will look like below:
+
+```
+---
+layout: play-design
+title: Design with Passion
+cover-image: design-with-passion/design-with-passion
+size: full
+type: design
+---
+
+<video controls controlsList="nodownload" preload="none" poster="/img/play/design-with-passion/design-with-passion.jpg">
+  <source src="/video/play/design-with-passion/design-with-passion-720-web.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+```
+
+**Title:** Give the design post a title, this WILL be shown.
+
+**Cover-image:** The thumbnail to show on the play page. (This goes in the img/play/ folder with a folder setup for that post)
+
+**Size:** This is the size of the post. (full, one-third, two-thirds)
+
+**Type:** The type of post, in this case its a design.
+
+🎉 That should take care of the majority of things that you may have to change/add on a daily basis. If you are trying to make a bigger change to the site, you may have to do some digging into the code and documentation for [Jekyll](https://jekyllrb.com/) and [Gulp](https://gulpjs.com/) to get a better understanding of how things work and are built. Also of note, the transitioning animation in place is thanks to a library called [barba.js](http://barbajs.org/) which is a wonderful little library.
