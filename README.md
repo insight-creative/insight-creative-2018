@@ -1,4 +1,4 @@
-# Insight Website - 2017 Edition
+# Insight Website - 2018 Edition
 
 ## System Preparation
 
@@ -425,5 +425,7 @@ Your browser does not support the video tag.
 **Size:** This is the size of the post. (full, one-third, two-thirds)
 
 **Type:** The type of post, in this case its a design.
+
+-----
 
 🎉 That should take care of the majority of things that you may have to change/add on a daily basis. If you are trying to make a bigger change to the site, you may have to do some digging into the code and documentation for [Jekyll](https://jekyllrb.com/) and [Gulp](https://gulpjs.com/) to get a better understanding of how things work and are built. Also of note, the transitioning animation in place is thanks to a library called [barba.js](http://barbajs.org/) which is a wonderful little library.
