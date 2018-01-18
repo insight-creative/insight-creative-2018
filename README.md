@@ -5,7 +5,7 @@
 To use this starter project, you'll need the following things installed on your machine.
 
 1. [Jekyll](http://jekyllrb.com/) - `$ gem install jekyll` (Built on version 3.3.1)
-2. [NodeJS](http://nodejs.org) - use the installer.
+2. [NodeJS](http://nodejs.org) - use the installer. (Version at time of initial build 9.3.0)
 3. [GulpJS](https://github.com/gulpjs/gulp) - `$ npm install -g gulp` (mac users may need sudo)
 4. [GraphicsMagick](http://www.graphicsmagick.org/download.html) - this is needed to run gulp-resize
 
