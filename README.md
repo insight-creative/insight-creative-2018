@@ -131,7 +131,7 @@ srcset="/img/culture/header-1-2400.jpg 2400w,
         /img/culture/header-1-400.jpg 400w"/>
 ```
 
-## Adding a project
+## ✏️ Adding a project
 
 A project will have the following information at the top of the development file:
 
@@ -180,7 +180,7 @@ tags:
 
 *The layout will always remain project*
 
-### 📷 Images
+### 🖼️ Images
 
 The images for a project should go in the **unsized-img** directory, followed by the **projects** folder, and then inside a directory with the exact same name as the project. Each image should be named the same as the project and then given a name relative to what its showing. Look at previous projects for example.
 
