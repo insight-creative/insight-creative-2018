@@ -145,7 +145,7 @@ $(function() {
       }
       if (page.indexOf("blog") >= 0) {
         window.instgrm.Embeds.process();
-        twttr.widgets.load();
+        // twttr.widgets.load();
       }
     }
 
