@@ -27,7 +27,7 @@
 8. [Play](#-play)
     1. [Quotes](#quotes)
     2. [Good Read](#good-read)
-    3. [Design]()
+    3. [Design](#design)
 
 ## 💻 System Preparation
 
