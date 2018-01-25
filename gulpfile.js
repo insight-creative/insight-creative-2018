@@ -95,6 +95,7 @@ gulp.task('optimize', function() {
                 quality: 0.8,
                 noProfile: true,
                 interlace: true,
+                imageMagick: true,
             }),
             os.cpus().length
         ))
@@ -117,6 +118,7 @@ var resizeImageTasks = [];
                 imageresize({
                     width: size,
                     upscale: false,
+                    imageMagick: true,
                 }),
                 os.cpus().length
             ))

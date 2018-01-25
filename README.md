@@ -31,19 +31,23 @@
 
 ## 💻 System Preparation
 
-To use this starter project, you'll need the following things installed on your machine.
+To use this starter project, you'll need the following things installed on your machine. *Note: the version of ruby installed during the writing of this documentation is `ruby 2.2.6p396` and is confirmed to work on `ruby 2.3.0` as well.*
 
-1. [Jekyll](http://jekyllrb.com/) - `$ gem install jekyll` (Built on version 3.3.1)
-2. [NodeJS](http://nodejs.org) - use the installer. (Version at time of initial build 9.3.0)
+1. [NodeJS](http://nodejs.org) - use the installer. (Version at time of initial build 9.3.0)
+2. [Bundler](http://bundler.io/) - `gem install bundler` (mac users may need sudo)
 3. [GulpJS](https://github.com/gulpjs/gulp) - `$ npm install -g gulp` (mac users may need sudo)
-4. [GraphicsMagick](http://www.graphicsmagick.org/download.html) - this is needed to run gulp-resize
+4. [GraphicsMagick](http://www.graphicsmagick.org/download.html) and [ImageMagick](https://www.imagemagick.org/script/download.php) - these are needed to run gulp-resize.
 
-*Note: the version of ruby installed during the writing of this documentation is `ruby 2.2.6p396`*
+For Mac users you can run:
+```shell
+brew install graphicsmagick imagemagick
+```
+
 
 ## 💾 Local Installation
 
 1. Clone this repo, or download it into a directory of your choice.
-2. From the shell or teriminal, inside the directory,  run `bundle install`.
+2. From the shell or teriminal, inside the directory,  run `bundle install`. This will install [Jekyll](http://jekyllrb.com/) (Built on version 3.3.1)
 
 ```shell
 bundle install
