@@ -41,7 +41,19 @@ To use this starter project, you'll need the following things installed on your 
 ## 💾 Local Installation
 
 1. Clone this repo, or download it into a directory of your choice.
-2. Inside the directory, run `npm install`. This will install all of the dependencies.
+2. From the shell or teriminal, inside the directory,  run `bundle install`.
+
+```shell
+bundle install
+``` 
+
+3. Run `npm shell`. This will install all of the dependencies.
+
+
+```shell
+npm install
+```
+
 
 ## 📁 File Structure
 
