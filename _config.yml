@@ -2,6 +2,7 @@ name: Insight Creative, Inc.
 markdown: kramdown
 highlighter: rouge # or rouge or null
 exclude: ["node_modules", "gulpfile.js", "package.json", "unsized-img"]
+include: ["_redirects"]
 permalink: none
 gems:
  - jekyll-sitemap
