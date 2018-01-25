@@ -14,3 +14,5 @@ Header set Cache-Control "max-age=14400, must-revalidate"
 
 Redirect 301 /staff-bios/index.html https://insightcreative.com/culture/
 Redirect 301 /careers/index.html https://insightcreative.com/contact/
+Redirect 301 /staff-bios/ https://insightcreative.com/culture/
+Redirect 301 /careers/ https://insightcreative.com/contact/
