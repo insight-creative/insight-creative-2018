@@ -47,7 +47,7 @@ To use this starter project, you'll need the following things installed on your 
 bundle install
 ``` 
 
-3. Run `npm shell`. This will install all of the dependencies.
+3. Run `npm install`. This will install all of the dependencies.
 
 
 ```shell
