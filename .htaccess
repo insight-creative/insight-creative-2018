@@ -11,3 +11,6 @@ Header set Cache-Control "max-age=172800, public, must-revalidate"
 <FilesMatch ".(html|htm)$">
 Header set Cache-Control "max-age=14400, must-revalidate"
 </FilesMatch>
+
+Redirect 301 /staff-bios/ https://insightcreative.com/culture/
+Redirect 301 /careers/ https://insightcreative.com/contact/
