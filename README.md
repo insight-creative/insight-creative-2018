@@ -37,6 +37,7 @@ To use this starter project, you'll need the following things installed on your 
 2. [NodeJS](http://nodejs.org) - use the installer. (Version at time of initial build 9.3.0)
 3. [GulpJS](https://github.com/gulpjs/gulp) - `$ npm install -g gulp` (mac users may need sudo)
 4. [GraphicsMagick](http://www.graphicsmagick.org/download.html) - this is needed to run gulp-resize
+*Note: the version of ruby installed during the writing of this documentation is `ruby 2.2.6p396`*
 
 ## 💾 Local Installation
 
@@ -47,7 +48,13 @@ To use this starter project, you'll need the following things installed on your 
 bundle install
 ``` 
 
-3. Run `npm install`. This will install all of the dependencies.
+3. Run `bundle update` to update your bundles.
+
+```shell
+bundle update
+```
+
+4. Run `npm install`. This will install all of the dependencies.
 
 
 ```shell
