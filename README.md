@@ -130,7 +130,7 @@ gulp compress
 
 ### 5. Push to GitHub
 
-Push changes to GitHub. **Note: When you push to github it instantiates a new build on [Netlify](https://app.netlify.com/).**
+Push changes to GitHub. **Note: When you push to github it instantiates a new build on [Netlify](https://app.netlify.com/).** (Don't know how to use GitHub? [Start training](https://services.github.com/on-demand/intro-to-github/).)
 ### 6. Check Netlify
 
 When you push a new commit to github Netlify will automatically start running a new build of the site and then push that version live when it is complete. You can make sure the build worked by [logging in](https://app.netlify.com/) and going to the **Deploys** page for Insight 2018. You can also rollback to previous versions or stop auto publishing new builds. For more information on how to use Netlify refer to their [documentation](https://www.netlify.com/docs/).
@@ -175,13 +175,16 @@ When adding an image, do not use the markdown image treatment, instead, add an i
 Images should also have this line of code in their tag, which will give them an animation when scrolling: `data-aos="fade-up"`
 
 ```html
-<img data-aos="fade-up" src="/img/culture/header-1.jpg" alt="We Rock"
-srcset="/img/culture/header-1-2400.jpg 2400w,
-        /img/culture/header-1-1800.jpg 1800w,
-        /img/culture/header-1-1200.jpg 1200w,
-        /img/culture/header-1-900.jpg 900w,
-        /img/culture/header-1-600.jpg 600w,
-        /img/culture/header-1-400.jpg 400w"/>
+<img data-aos="fade-up" 
+src="/img/blog/a-fresh-new-design-cover.jpg"
+alt="Comparison New Site Versus Old Site"
+srcset="
+  /img/blog/a-fresh-new-design-cover-2400.jpg 2400w,
+  /img/blog/a-fresh-new-design-cover-1800.jpg 1800w,
+  /img/blog/a-fresh-new-design-cover-1200.jpg 1200w,
+  /img/blog/a-fresh-new-design-cover-900.jpg 900w,
+  /img/blog/a-fresh-new-design-cover-600.jpg 600w,
+  /img/blog/a-fresh-new-design-cover-400.jpg 400w" />
 ```
 
 ## ✏️ Adding a project
