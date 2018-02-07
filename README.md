@@ -130,7 +130,7 @@ gulp compress
 
 ### 5. Push to GitHub
 
-Push changes to GitHub. **Note: When you push to github it instantiates a new build on [Netlify](https://app.netlify.com/).** (Don't know how to use GitHub? [Start training](https://services.github.com/on-demand/intro-to-github/).)
+Push changes to GitHub. **Note: When you push to github it instantiates a new build on [Netlify](https://app.netlify.com/).** *Don't know how to use GitHub? [Start training](https://services.github.com/on-demand/intro-to-github/).*
 ### 6. Check Netlify
 
 When you push a new commit to github Netlify will automatically start running a new build of the site and then push that version live when it is complete. You can make sure the build worked by [logging in](https://app.netlify.com/) and going to the **Deploys** page for Insight 2018. You can also rollback to previous versions or stop auto publishing new builds. For more information on how to use Netlify refer to their [documentation](https://www.netlify.com/docs/).
