@@ -47,7 +47,7 @@ And what goes better with coffee than a cookie? When Oreo celebrated its 100-yea
 Two of Insight's clients have recently celebrated milestone anniversaries with commemorative campaigns as well.
 
 ### Case 3&mdash;River Valley Bank: ###
-This fun, modern, bank celebrated 50 years &mdash;and its bean farming roots&mdash;with a ["What Can You Build from a Bean?" campaign](http://localhost:3000/work/river-valley-bank-50th-anniversary.html) with positive results.  
+This fun, modern, bank celebrated 50 years &mdash;and its bean farming roots&mdash;with a ["What Can You Build from a Bean?" campaign](https://insightcreative.com/work/river-valley-bank-50th-anniversary.html) with positive results.  
 
 ### Case 4—Washington Island Ferry Line: ###
 This vessel that provides passage from popular Mainland Door County to the area's well-known Washington Island, commemorated 75 years through a [successful public relations campaign](https://insightcreative.com/work/bringing-pr-to-port-for-the-washington-island-ferry.html).
