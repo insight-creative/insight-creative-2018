@@ -20,6 +20,8 @@ srcset="
 /img/blog/to-celebrate-or-not-to-celebrate-cover-600.jpg 600w,
 /img/blog/to-celebrate-or-not-to-celebrate-cover-400.jpg 400w" />
 
+I have a milestone birthday coming up&mdash;40! Do I want it acknowledged? No! Do I want a party and big celebration? Absolutely not! Do I want to use it to my advantage in the form of a blog topic? You bet.
+
 ## National Brands ##
 A milestone in my life has me thinking—what brands have used interesting celebration campaigns?
 
