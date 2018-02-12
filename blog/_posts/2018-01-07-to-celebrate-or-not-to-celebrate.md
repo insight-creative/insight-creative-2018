@@ -56,8 +56,8 @@ This vessel that provides passage from popular Mainland Door County to the area'
 
 Insight Creative, Inc. is also celebrating a milestone anniversary this year ... 30 years in business. We've been doing a lot of things right over the years, so I'm anxious to see us launch a unique and innovative campaign that gets people talking. Maybe I should take note from Insight (and all the others) and learn to embrace my birthday, rather than fight it. And if there's anything I've learned from Insight, it's that there's always a reason to eat cake.
 
-<p align="center" style="margin:0 auto;text-align:center;float:none;max-width:645px;">
-<img class="keepwidth" data-aos="fade-up"
+<p class="keepwidth">
+<img data-aos="fade-up"
 src="/img/blog/to-celebrate-or-not-to-celebrate-2.jpg"
 alt="Happy Birthday Molly"
 srcset="

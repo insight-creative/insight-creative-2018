@@ -784,7 +784,13 @@
 
     }
 }
-img.keepwidth {
-width:auto;
-margin: 0 auto;
+.keepwidth {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+
+    img {
+        width: auto;
+    }
 }
