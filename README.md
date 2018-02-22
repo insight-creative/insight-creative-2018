@@ -51,7 +51,7 @@ brew install graphicsmagick imagemagick
 
 ```shell
 bundle install
-``` 
+```
 
 3. Run `bundle update` to update your bundles.
 
@@ -73,6 +73,9 @@ Before running any commands, lets understand the file directories.
 
 ### Pages
 Each individual page will be located inside the folder with its corresponding name.
+
+### Homepage
+The homepage contains two sections that can be updated by modifying the index.html file located in the root of the directory&mdash;the hero slider at the top, and the client quote in the middle of the page. You can edit the existing slides by changing the img src paths, title &amp; subhead, and the URL to the project the slide will link to. To remove a slide, simply delete the full <li> tag that surrounds a single slide. To add a new slide, simply duplicate a full <li> tag and update the elements outlined above.
 
 ### Work
 Projects can be found inside the **work/_posts** directory. They get sorted by date, so the first project is set to 2000-01-01 with each newer project being a day newer. So the newest projects will have the most recent date. DO NOT use the current date as the date for the project, simply follow the pattern that is already created. *Note: If two projects have the same date they will be shown in alphabetical order, meaning the project closer to A will be shown further down than the latter*
@@ -175,7 +178,7 @@ When adding an image, do not use the markdown image treatment, instead, add an i
 Images should also have this line of code in their tag, which will give them an animation when scrolling: `data-aos="fade-up"`
 
 ```html
-<img data-aos="fade-up" 
+<img data-aos="fade-up"
 src="/img/blog/a-fresh-new-design-cover.jpg"
 alt="Comparison New Site Versus Old Site"
 srcset="
