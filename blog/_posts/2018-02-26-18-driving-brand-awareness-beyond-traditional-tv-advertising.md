@@ -20,7 +20,7 @@ srcset="
 /img/blog/driving-brand-awareness-beyond-traditional-tv-advertising-cover-600.jpg 600w,
 /img/blog/driving-brand-awareness-beyond-traditional-tv-advertising-cover-400.jpg 400w" />
 
-The number of television viewers cancelling their cable subscriptions, referred to as 'cord cutters', continues to grow. TV viewers who are fed up with the cost of cable and satellite TV are opting for over-the-top (OTT) services.
+The number of television viewers cancelling their cable subscriptions, commonly referred to as 'cord cutters', continues to grow. TV viewers who are fed up with the cost of cable and satellite TV are opting for over-the-top (OTT) services.
 
 OTT refers to TV content streamed over the internet to a connected device, eliminating the need for a traditional cable or satellite subscription. These devices include Apple TV, Chromecast, Roku, computers, smartphones and tablets.
 
@@ -32,4 +32,4 @@ What does this mean for marketers? It means a change in strategy and media alloc
 
 Most 'cord-cutters' share a desire to consume content where, when and how they want. Sitting down to watch a favorite show every Tuesday at 8:00 p.m. may not work with someone's schedule, but watching it the next day on Hulu or using a network's app on their phone while they're at the gym does. To reach this audience, it's important to be on all screens they’re using to access content.
 
-Delivering ads to consumers who view content using OTT platforms is just one example of how the advertising landscape is constantly changing. This is something that isn't going to go away anytime soon, so if you're a traditional TV advertiser, it would be beneficial to add OTT advertising to the mix. There's a good chance you'll reach current customers as well as a new audience.  
+Delivering ads to consumers who view content using OTT platforms is just one example of how the advertising landscape is constantly changing. This is something that isn't going to go away anytime soon so, if you're a traditional TV advertiser, it would be beneficial to add OTT advertising to the mix. There's a good chance you'll reach current customers as well as a new audience.  
