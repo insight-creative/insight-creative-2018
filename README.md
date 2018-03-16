@@ -151,16 +151,35 @@ The homepage slider content can be found in the main `index.html` file in the `<
         </div>
       </div>
       <div class="cd-full-width project-image-wrapper">
-        <img class="fit" src="/img/projects/river-valley-bank-thats-commitment/river-valley-bank-thats-commitment-cover.jpg" alt="Photography for Vans Lumber" srcset="
-                      /img/projects/river-valley-bank-thats-commitment/river-valley-bank-thats-commitment-cover-2400.jpg 1200w,
-                      /img/projects/river-valley-bank-thats-commitment/river-valley-bank-thats-commitment-cover-1800.jpg 900w,
-                      /img/projects/river-valley-bank-thats-commitment/river-valley-bank-thats-commitment-cover-1200.jpg 600w,
-                      /img/projects/river-valley-bank-thats-commitment/river-valley-bank-thats-commitment-cover-900.jpg 400w" />
+        <img class="fit" src="/img/projects/river-valley-bank-thats-commitment/river-valley-bank-thats-commitment-cover.jpg" alt="Photography for Vans Lumber" 
+        srcset="
+                /img/projects/river-valley-bank-thats-commitment/river-valley-bank-thats-commitment-cover-2400.jpg 1200w,
+                /img/projects/river-valley-bank-thats-commitment/river-valley-bank-thats-commitment-cover-1800.jpg 900w,
+                /img/projects/river-valley-bank-thats-commitment/river-valley-bank-thats-commitment-cover-1200.jpg 600w,
+                /img/projects/river-valley-bank-thats-commitment/river-valley-bank-thats-commitment-cover-900.jpg 400w" />
       </div>
     </a>
 </li>
 ```
-*Note: the first slide needs to have the class `selected` applied to its `li` element. None of the other slides should have this class applied as this happens in the javascript.
+*Note: the first slide needs to have the class `selected` applied to its `li` element. None of the other slides should have this class applied as this happens in the javascript.*
+
+Make sure you change the background of the `text` element so that the color coincides with your project.
+
+## Homepage Testimonials
+
+The testimonials slider content can be found in the main `index.html` file in the `<ul id="testimonials-ul">` tag. An example of a testimonial looks like the below code:
+
+```html
+<li>
+  <div class="quote" data-aos-anchor=".testimonial" data-aos="fade-up" data-aos-delay="800">
+    <p>
+        The media strategy that Insight Creative has developed has successfully increased our business in a very short period of time. Our appointment schedule is now completely booked, which is uncommon at this time of year in our industry. Insight’s expertise is having an outstanding impact on our business.
+    </p>
+  </div>
+  <h2 data-aos="fade-up" data-aos-anchor=".testimonial" data-aos-delay="1200">Kristi Kuchta</h2>
+  <h3 data-aos="fade-up" data-aos-anchor=".testimonial" data-aos-delay="1600">ReBath Northeast Wisconsin</h3>
+</li>
+```
 
 ## ✏️ Adding a Blog Post
 
