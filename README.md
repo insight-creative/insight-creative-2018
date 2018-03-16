@@ -18,13 +18,14 @@
     4. [Compression](#4-compress-script-files-deprecated-since-the-site-is-built-live-off-github-this-step-should-no-longer-be-required)
     5. [Push to GitHub](#5-push-to-github)
     6. [Check Netlify](#6-check-netlify)
-5. [Adding a Blog Post](#%EF%B8%8F-adding-a-blog-post)
+5. [Homepage Slider](#homepage-slider)
+6. [Adding a Blog Post](#%EF%B8%8F-adding-a-blog-post)
     1. [Images](#%EF%B8%8F-images)
-6. [Adding a Project](#%EF%B8%8F-adding-a-project)
+7. [Adding a Project](#%EF%B8%8F-adding-a-project)
     1. [Images](#%EF%B8%8F-images-1)
     2. [Image Styling](#%EF%B8%8F-image-styling)
-7. [Employees](#-employees)
-8. [Play](#-play)
+8. [Employees](#-employees)
+9. [Play](#-play)
     1. [Quotes](#quotes)
     2. [Good Read](#good-read)
     3. [Design](#design)
@@ -73,9 +74,6 @@ Before running any commands, lets understand the file directories.
 
 ### Pages
 Each individual page will be located inside the folder with its corresponding name.
-
-### Homepage
-The homepage contains two sections that can be updated by modifying the index.html file located in the root of the directory&mdash;the hero slider at the top, and the client quote in the middle of the page. You can edit the existing slides by changing the img src paths, title &amp; subhead, and the URL to the project page that the slide will link to. To remove a slide, simply delete the full li tag that surrounds a single slide. To add a new slide, simply duplicate a full li tag and update the elements outlined above.
 
 ### Work
 Projects can be found inside the **work/_posts** directory. They get sorted by date, so the first project is set to 2000-01-01 with each newer project being a day newer. So the newest projects will have the most recent date. DO NOT use the current date as the date for the project, simply follow the pattern that is already created. *Note: If two projects have the same date they will be shown in alphabetical order, meaning the project closer to A will be shown further down than the latter*
@@ -138,6 +136,31 @@ Push changes to GitHub. **Note: When you push to github it instantiates a new bu
 
 When you push a new commit to github Netlify will automatically start running a new build of the site and then push that version live when it is complete. You can make sure the build worked by [logging in](https://app.netlify.com/) and going to the **Deploys** page for Insight 2018. You can also rollback to previous versions or stop auto publishing new builds. For more information on how to use Netlify refer to their [documentation](https://www.netlify.com/docs/).
 
+
+## Homepage Slider
+
+The homepage slider content can be found in the main `index.html` file in the `<ul class="cd-hero-slider autoplay">` tag. An example of a slide looks like the below code:
+
+```html
+<li class="selected">
+    <a href="/work/river-valley-bank-thats-commitment.html">
+      <div class="cd-full-width">
+        <div class="text" style="background: rgba(20,47,83,.9);">
+          <h2 style="color:#fff">That's Commitment Campaign</h2>
+          <h3 style="color:#fff">for <strong>River Valley Bank</strong></h3>
+        </div>
+      </div>
+      <div class="cd-full-width project-image-wrapper">
+        <img class="fit" src="/img/projects/river-valley-bank-thats-commitment/river-valley-bank-thats-commitment-cover.jpg" alt="Photography for Vans Lumber" srcset="
+                      /img/projects/river-valley-bank-thats-commitment/river-valley-bank-thats-commitment-cover-2400.jpg 1200w,
+                      /img/projects/river-valley-bank-thats-commitment/river-valley-bank-thats-commitment-cover-1800.jpg 900w,
+                      /img/projects/river-valley-bank-thats-commitment/river-valley-bank-thats-commitment-cover-1200.jpg 600w,
+                      /img/projects/river-valley-bank-thats-commitment/river-valley-bank-thats-commitment-cover-900.jpg 400w" />
+      </div>
+    </a>
+</li>
+```
+*Note: the first slide needs to have the class `selected` applied to its `li` element. None of the other slides should have this class applied as this happens in the javascript.
 
 ## ✏️ Adding a Blog Post
 
