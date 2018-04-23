@@ -4,20 +4,20 @@ title: Trust the pros for smart logo design
 author: Jay Bauer
 description: "As easy as it may look to create a great logo, I can assure you it is not."
 text-color: 'fff'
-back-color: '1da2cf'
-cover-image: cause-sumption-risks-and-rewards-cover.jpg
+back-color: '222222'
+cover-image: trust-the-pros-for-smart-logo-design-cover.jpg
 tag: blog
 ---
 
-<img data-aos="fade-up" src="/img/blog/cause-sumption-risks-and-rewards-cover.jpg"
-alt="Cause-Sumption Risks and Rewards"
+<img data-aos="fade-up" src="/img/blog/trust-the-pros-for-smart-logo-design-cover.jpg"
+alt="Collage of Logos"
 srcset="
-/img/blog/cause-sumption-risks-and-rewards-cover-2400.jpg 2400w,
-/img/blog/cause-sumption-risks-and-rewards-cover-1800.jpg 1800w,
-/img/blog/cause-sumption-risks-and-rewards-cover-1200.jpg 1200w,
-/img/blog/cause-sumption-risks-and-rewards-cover-900.jpg 900w,
-/img/blog/cause-sumption-risks-and-rewards-cover-600.jpg 600w,
-/img/blog/cause-sumption-risks-and-rewards-cover-400.jpg 400w" />
+/img/blog/trust-the-pros-for-smart-logo-design-cover-2400.jpg 2400w,
+/img/blog/trust-the-pros-for-smart-logo-design-cover-1800.jpg 1800w,
+/img/blog/trust-the-pros-for-smart-logo-design-cover-1200.jpg 1200w,
+/img/blog/trust-the-pros-for-smart-logo-design-cover-900.jpg 900w,
+/img/blog/trust-the-pros-for-smart-logo-design-cover-600.jpg 600w,
+/img/blog/trust-the-pros-for-smart-logo-design-cover-400.jpg 400w" />
 
 As easy as it may look to create a great logo, I can assure you it is not. There are many websites out now that say they can design you a logo for $100, $50, $10 etc. Well, you get what you pay for. Grabbing clip art, modifying it and using a bunch of different typefaces does not make a good logo. And that’s what I’ve seen from a lot of logo creation sites. They don’t go through the process needed to create a logo that effectively represents your brand.
 
