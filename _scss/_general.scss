@@ -85,9 +85,38 @@ h5 {
         @include shift(2);
     }
 
-    a {
-        color: #fff;
+    a,
+    a:visited {
+        position: relative;
+        color: $brand-color;
         text-decoration: none;
+        padding: 1px 0;
+        @include transition(color .5s);
+    }
+
+    a:hover {
+        color: $brand-color;
+        @include transition(color .5s);
+    }
+
+    a::after {
+        position: absolute;
+        top: 100%;
+        left: 0;
+        width: 100%;
+        height: 2px;
+        background: $dark-gray;
+        content: '';
+        opacity: 0;
+        z-index: 2;
+        @include transition(all .5s);
+        @include transform(translateY(5px));
+    }
+
+    a:focus::after,
+    a:hover::after {
+        opacity: 1;
+        @include transform(translateY(0px));
     }
 }
 
