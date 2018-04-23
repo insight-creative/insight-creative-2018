@@ -3,6 +3,7 @@
     flex-direction: column;
     width: 100%;
     align-content: center;
+    margin-bottom: 50px;
 
     @include media($desktop) {
         flex-direction: row;
@@ -28,6 +29,16 @@
 
     @include media($desktop) {
         padding: 0em 10px;
+    }
+    p {
+        text-align: center;
+        margin-left:0;
+        margin-right:0;
+        width:100%;
+        @include media($desktop) {
+            margin-top: 1em;
+            text-align: left;
+        }
     }
     h2,h3,h4 {
         text-align: center;
