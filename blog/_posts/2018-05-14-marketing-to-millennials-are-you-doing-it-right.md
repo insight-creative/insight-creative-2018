@@ -18,9 +18,7 @@ Hi everyone, it's Jennifer from Insight Creative. In today's world, it appears n
 
 Here's the issue with targeting millennials. Brands strive to cater their marketing to the "next big influencer" and right now these influencers are millennials. What many brands don't realize is they have no idea what millennials want or need—they just assume they know.
 
-This quote from AdWeek sums it up:
-
-"If your company hopes to attract the millennial demographic, you will do well to specify your target market in a more niche group first and foremost. The label 'millennial' leads brands to rely on using exhausted stereotypes in an attempt to relate to everyone as if all 75 million people belong to one exclusive club."
+This quote from AdWeek sums it up: "If your company hopes to attract the millennial demographic, you will do well to specify your target market in a more niche group first and foremost. The label 'millennial' leads brands to rely on using exhausted stereotypes in an attempt to relate to everyone as if all 75 million people belong to one exclusive club."
 
 The more brands focus on targeting a specific generation, the further away they get from truly understanding their audience. And this holds true for any generation. You shouldn’t market to just "Baby Boomers" or "Generation X." Instead, research and use statistics from credible sources to help define your target audience.
 
