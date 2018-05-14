@@ -10,7 +10,7 @@ tag: blog
 
 ---
 
-<span class="wistia_embed wistia_async_g576xi9i5u popover=true popoverAnimateThumbnail=true" style="display:inline-block;height:500px;width:100%">&nbsp;</span>
+<span class="wistia_embed wistia_async_3f3s0pxtt7 popover=true popoverAnimateThumbnail=true" style="display:inline-block;height:500px;width:100%">&nbsp;</span>
 
 **Video Transcription**
 
@@ -22,7 +22,7 @@ This quote from AdWeek sums it up:
 
 "If your company hopes to attract the millennial demographic, you will do well to specify your target market in a more niche group first and foremost. The label 'millennial' leads brands to rely on using exhausted stereotypes in an attempt to relate to everyone as if all 75 million people belong to one exclusive club."
 
-The more brands focus on targeting a specific generation, the further away they get from truly understanding their audience. And this holds true for any generation. You shouldn’t market to just "Baby Boomers" or "Generation X."" Instead, research and use statistics from credible sources to help define your target audience.
+The more brands focus on targeting a specific generation, the further away they get from truly understanding their audience. And this holds true for any generation. You shouldn’t market to just "Baby Boomers" or "Generation X." Instead, research and use statistics from credible sources to help define your target audience.
 
 For instance, per Content Science Review, 74 percent of millennials spend at least five hours per week engaged with online content. Brands can use this information to determine that digital campaigns for people ages 18-34 are more successful than print campaigns. But not every millennial is a Snapchat-using, selfie-obsessed, matcha-drinking, job-hopping, gluten-free, bae-loving fanatic. Don’t let stereotypes dictate your marketing strategy or the tactics you use.
 
