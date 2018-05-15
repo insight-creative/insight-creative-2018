@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Inside the Millenial Mind
+title: Inside the Millennial Mind
 author: Jen Haas
 description: "The average millennial has access to 7.1 electronic devices and consumes content across those multiple devices."
 text-color: 'fff'
