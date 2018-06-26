@@ -27,11 +27,11 @@ Behind every great logo design is hours of hard work, research and failed attemp
 - Know what your consumer is looking for from your brand
 - Get to know the competition, if any, and the market through research
 - Assess where and how the logo will be used for good readability
-    - Apparel
-    - Signage
-    - Corporate I.D.
-    - Promo items
-    - Digital ads
+  - Apparel
+  - Signage
+  - Corporate I.D.
+  - Promo items
+  - Digital ads
 
 ## Other things to consider
 
