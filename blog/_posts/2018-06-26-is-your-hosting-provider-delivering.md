@@ -2,7 +2,7 @@
 layout: blog
 title: "Is Your Hosting Provider Delivering?"
 author: Bart Raboin
-description: "Insight Creative received an “Award of Distinction” from the 24th Annual Communicator Awards hosted by the Academy of Interactive and Visual Arts."
+description: "Whether you’re just starting to create your first website or you’ve been managing your site for a long time, one of the most crucial decisions you’ll make is deciding where to host your website."
 text-color: 'fff'
 back-color: '105771'
 cover-image: is-your-hosting-provider-delivering.jpg
