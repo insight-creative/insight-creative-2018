@@ -2,7 +2,7 @@
 layout: blog
 title: "Insight Creative, Inc. Named 2018 Hermes Creative Award Gold Winner"
 author: Emily Morehart
-description: "Insight Creative, Inc. was named a Gold Winner by the 2018 Hermes Creative Awards."
+description: "Insight Creative Named a Gold Winner by the 2018 Hermes Creative Awards."
 text-color: 'fff'
 back-color: 'bd9b49'
 cover-image: insight-creative-inc-named-2018-hermes-creative-award-gold-winner.jpg
