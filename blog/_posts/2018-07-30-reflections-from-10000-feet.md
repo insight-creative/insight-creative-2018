@@ -4,7 +4,7 @@ title: "Reflections From 10,000 Feet"
 author: Brian Brost
 description: "Insight Creative, Inc. we can do anything, even skywriting."
 text-color: 'fff'
-back-color: 'bd9b49'
+back-color: '008ee0'
 cover-image: relections-from-10000-feet.jpg
 tag: blog
 ---
