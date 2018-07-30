@@ -5,7 +5,7 @@ author: Brian Brost
 description: "Insight Creative, Inc. we can do anything, even skywriting."
 text-color: 'fff'
 back-color: '008ee0'
-cover-image: relections-from-10000-feet.jpg
+cover-image: reflections-from-10000-feet.jpg
 tag: blog
 ---
 
