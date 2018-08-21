@@ -2,8 +2,8 @@
 layout: blog
 title: "Insight Creative, Inc. Donates $1,000 Annual Scholarship to UW-Green Bay Communications and Design Students"
 author: Emily Morehart
-description: "To mark their 30th anniversary, Insight Creative donated funds to open the “Insight Creative, Inc. Memorial Annual Scholarship in Honor of Monica von Hoff"."
-text-color: 'fff'
+description: "To mark their 30th anniversary, Insight Creative donated funds to open"
+text-color: 'ffffff'
 back-color: 'd31145'
 cover-image: insight-Scholarship-Check.jpg
 tag: blog
