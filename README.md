@@ -43,7 +43,7 @@ For Mac users you can run:
 ```shell
 brew install graphicsmagick imagemagick
 ```
-
+## Test Test
 
 ## 💾 Local Installation
 
@@ -151,7 +151,7 @@ The homepage slider content can be found in the main `index.html` file in the `<
         </div>
       </div>
       <div class="cd-full-width project-image-wrapper">
-        <img class="fit" src="/img/projects/river-valley-bank-thats-commitment/river-valley-bank-thats-commitment-cover.jpg" alt="Photography for Vans Lumber" 
+        <img class="fit" src="/img/projects/river-valley-bank-thats-commitment/river-valley-bank-thats-commitment-cover.jpg" alt="Photography for Vans Lumber"
         srcset="
                 /img/projects/river-valley-bank-thats-commitment/river-valley-bank-thats-commitment-cover-2400.jpg 1200w,
                 /img/projects/river-valley-bank-thats-commitment/river-valley-bank-thats-commitment-cover-1800.jpg 900w,
