@@ -23,4 +23,4 @@ To mark their 30th anniversary, Insight Creative donated funds to open the “In
 
 The University of Wisconsin-Green Bay is a comprehensive public institution offering undergraduate and graduate programs to 7,158 students. The University transforms lives and communities through exceptional and award-winning teaching and research, innovative learning opportunities and a problem-solving approach to education. For more information, visit <a href='http://www.uwgb.edu/' target='_blank' rel='noopener'>www.uwgb.edu.</a>
 
-Insight Creative, Inc.—serving clients since 1988—is a Green Bay-based advertising agency offering complete in-house creative and strategic marketing communications and branding expertise for consumer, business and industrial clients. Visit <a href="https://insightcreative.com/">insightcreative.com</a> for more information.
+Insight Creative, Inc.—serving clients since 1988—is a Green Bay-based advertising agency offering complete in-house creative and strategic marketing communications and branding expertise for consumer, business and industrial clients.
