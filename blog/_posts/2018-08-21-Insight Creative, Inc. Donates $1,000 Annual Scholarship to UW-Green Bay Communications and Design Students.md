@@ -5,6 +5,7 @@ author: Emily Morehart
 description: "To mark their 30th anniversary, Insight Creative donated funds to open the “Insight Creative, Inc. Memorial Annual Scholarship in Honor of Monica von Hoff”"
 text-color: 'fff'
 back-color: '$brand-color'
+cover-image: Insight Scholarship Check.jpg
 tag: blog
 ---
 <img data-aos="fade-up" src="/img/blog/Insight Scholarship Check.jpg"
