@@ -8,7 +8,7 @@ back-color: '$brand-color'
 tag: blog
 ---
 <img data-aos="fade-up" src="/img/blog/Insight Scholarship Check.jpg"
-alt="Image of holy wa skywriting"
+alt="UW-Green Bay Communications and Design Students Scholarship"
 srcset="
 /img/blog/Insight Scholarship Check.jpg 2400w,
 /img/blog/Insight Scholarship Check.jpg 1800w,
