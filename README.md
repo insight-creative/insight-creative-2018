@@ -43,7 +43,6 @@ For Mac users you can run:
 ```shell
 brew install graphicsmagick imagemagick
 ```
-## Test Test
 
 ## 💾 Local Installation
 
