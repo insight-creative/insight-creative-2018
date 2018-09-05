@@ -86,13 +86,13 @@
 #   image2: /img/employees/bart/bart-2.png
 #   image3: /img/employees/bart/bart-3.png
 
-- name: Tyler Bramer
-  job_title: Graphic Designer/Web Developer
-  bio: "Tyler's passion for creativity pushes his design and development skills to the edge. As a graduate of UW-Green Bay, he has also developed a passion for fine arts and photography. With his wide skill set&mdash;including print, web, 3D and photography&mdash;Tyler is the Swiss Army knife of design. Aside from the dedication to his work, he tries to bring as much fun to the workplace as he can."
-  color: malechite
-  image1: /img/employees/tyler/tyler-1.png
-  image2: /img/employees/tyler/tyler-2.png
-  image3: /img/employees/tyler/tyler-3.png
+# - name: Tyler Bramer
+#  job_title: Graphic Designer/Web Developer
+#  bio: "Tyler's passion for creativity pushes his design and development skills to the edge. As a graduate of UW-Green Bay, he has also developed a passion for fine arts and photography. With his wide skill set&mdash;including print, web, 3D and photography&mdash;Tyler is the Swiss Army knife of design. Aside from the dedication to his work, he tries to bring as much fun to the workplace as he can."
+#  color: malechite
+#  image1: /img/employees/tyler/tyler-1.png
+#  image2: /img/employees/tyler/tyler-2.png
+#  image3: /img/employees/tyler/tyler-3.png
 
 - name: Jennifer Rogers
   job_title: Social Media Coordinator
