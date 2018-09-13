@@ -5,8 +5,8 @@ client: Brown County Home Builders Association (BCHBA)
 description: Building even greater success through media craftsmanship.
 cover-image: brown-county-home-builders-media-buy/brown-county-home-builders-media-buy-cover-2
 cover-text-color: fff
-back-color1: ebaa4c
-back-color2: 9d5d17
+back-color1: 0036fa
+back-color2: 0025ae
 tags:
 - Media Buying
 ---
