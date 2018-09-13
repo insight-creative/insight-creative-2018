@@ -14,6 +14,7 @@ tags:
 Insight creates heavy hitting industrial images for all types of manufacturing. From paper to plastic manufacturing, Insight has the experience to illustrate your story with the greatest impact.
 
 <div class="images">
+
 <img class="half first fit" data-aos="fade-up" data-featherlight="/img/projects/insight-industrial-photography/insight-industrial-photography-machine-3.jpg"
 alt="Machine Example 1" src="/img/projects/insight-industrial-photography/insight-industrial-photography-machine-3.jpg"
 srcset="/img/projects/insight-industrial-photography/insight-industrial-photography-machine-3-2400.jpg 2400w,
@@ -103,5 +104,14 @@ srcset="/img/projects/insight-industrial-photography/insight-industrial-photogra
 /img/projects/insight-industrial-photography/insight-industrial-photography-panel-display-900.jpg 900w,
 /img/projects/insight-industrial-photography/insight-industrial-photography-panel-display-600.jpg 600w,
 /img/projects/insight-industrial-photography/insight-industrial-photography-panel-display-400.jpg 400w" />
+
+<img class="full fit" data-aos="fade-up" data-featherlight="/img/projects/insight-industrial-photography/PTI_New_Truck_2018.jpg"
+alt="Product Demonstration" src="/img/projects/insight-industrial-photography/PTI_New_Truck_2018.jpg"
+srcset="/img/projects/insight-industrial-photography/PTI_New_Truck_2018-2400.jpg 2400w,
+/img/projects/insight-industrial-photography/PTI_New_Truck_2018-1800.jpg 1800w,
+/img/projects/insight-industrial-photography/PTI_New_Truck_2018-1200.jpg 1200w,
+/img/projects/insight-industrial-photography/PTI_New_Truck_2018-900.jpg 900w,
+/img/projects/insight-industrial-photography/PTI_New_Truck_2018-600.jpg 600w,
+/img/projects/insight-industrial-photography/PTI_New_Truck_2018-400.jpg 400w" />
 
 </div>

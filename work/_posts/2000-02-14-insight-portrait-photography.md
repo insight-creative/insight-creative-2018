@@ -3,7 +3,7 @@ layout: project
 title: Portrait Photography Showcase
 client: Insight Creative, Inc.
 description: Let your personality shine through!
-cover-image: insight-portrait-photography/insight-portrait-photography-cover
+cover-image: insight-portrait-photography/insight-employee-signs-lacy
 cover-text-color: fff
 back-color1: e22357
 back-color2: d31145

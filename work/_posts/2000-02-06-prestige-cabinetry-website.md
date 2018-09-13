@@ -1,6 +1,6 @@
 ---
 layout: project
-title: 2017 Website
+title: Website
 client: Prestige Custom Cabinetry and Millwork, Inc.
 description: Website redesign opens doors to greater profits.
 cover-image: prestige-cabinetry-website/prestige-cabinetry-website-cover

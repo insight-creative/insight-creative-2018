@@ -1,6 +1,6 @@
 ---
 layout: project
-title: 2014 Website
+title: Website
 client: School Software Group
 description: Website redesign is at the top of the class. Summa Cum Laude.
 cover-image: school-software-group-website/school-software-group-website-cover

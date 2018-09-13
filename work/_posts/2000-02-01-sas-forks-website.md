@@ -1,6 +1,6 @@
 ---
 layout: project
-title: 2015 Website
+title: Website
 client: SAS Forks
 description: A website designed to crush the competition.
 cover-image: sas-forks-website/sas-forks-website-cover

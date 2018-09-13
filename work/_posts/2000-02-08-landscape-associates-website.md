@@ -1,6 +1,6 @@
 ---
 layout: project
-title: 2017 Website
+title: Website
 client: Landscape Associates
 description: It’s a natural.
 cover-image: landscape-associates-website/landscape-associates-website-assorted-devices
@@ -53,4 +53,3 @@ srcset="/img/projects/landscape-associates-website/landscape-associates-website-
 /img/projects/landscape-associates-website/landscape-associates-website-services-page-400.jpg 400w" />
 </div>
 </div>
-

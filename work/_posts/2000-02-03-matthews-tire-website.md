@@ -1,6 +1,6 @@
 ---
 layout: project
-title: 2015 Website
+title: Website
 client: Matthews Tire
 description: Keeping tire sales rolling.
 cover-image: matthews-tire-website/matthews-tire-website-cover
