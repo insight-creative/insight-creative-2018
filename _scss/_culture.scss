@@ -952,6 +952,22 @@
         }
     }
 
+    [data-color=midnightblue] {
+        @include radial-gradient(#00005c, #000029);
+
+        h1 {
+            color: #eeeeee;
+        }
+
+        h2 {
+            color: #ffffff;
+        }
+
+        p {
+            color: #EEEEFF;
+        }
+    }
+
     [data-color=peach] {
         @include radial-gradient(#f69679, #e56139);
 

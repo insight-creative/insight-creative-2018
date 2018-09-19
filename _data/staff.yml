@@ -78,6 +78,16 @@
   image2: /img/employees/emily/emily-2.png
   image3: /img/employees/emily/emily-3.png
 
+- name: Justin Parsons
+  job_title: Web Developer/Web Designer
+  bio: "Justin builds, designs and maintains custom websites for Insight’s wide-ranging client base. As a former business owner, Justin understands that your website should work as a major conduit for achieving marketing and sales goals. His strategic,
+  results-oriented approach---combined with a can-do attitude, exceptional tech savvy and constant desire to learn---makes Justin an incredible asset to Insight’s creative department. Prior to joining Insight, Justin ran a website design and
+  development company providing full-service creative solutions. He holds an associate degree in software application development from Rasmussen College. "
+  color: midnightblue
+  image1: /img/employees/emily/emily-1.png
+  image2: /img/employees/emily/emily-2.png
+  image3: /img/employees/emily/emily-3.png
+
 # - name: Bart Raboin
 #   job_title: Interactive/Web Designer
 #   bio: "As an interactive designer, Bart’s responsibilities include website design, development and programming along with the implementation of interactive media. A graduate of Northern Michigan University, he previously worked at Bearingpoint and as a web developer for Shopko Corporation. Bart has done significant freelance web development, taking many websites from concept to layout to programming and completion."

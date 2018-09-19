@@ -4,7 +4,7 @@ title: "Insight Creative Hires Web Developer"
 author: Emily Morehart
 description: "Insight Creative recently hired Justin Parsons as web developer."
 text-color: 'ffffff'
-back-color: '191032'
+back-color: '000029'
 cover-image: Justin Parsons.jpg
 tag: blog
 ---
