@@ -19,7 +19,7 @@ When PTI needed assistance with driver recruitment and retention, Insight delive
 
 From a multiple-state digital billboard campaign to recruit new drivers to driver safety and orientation videos, Insight provided the guidance to find and retain quality drivers.
 
-In addition, Insight designed dynamic interior graphics to highlight PTI’s building interior and trade show graphics, logos and animations to support PTI’s brand when they take their message on the road.
+In addition, Insight designed dynamic interior graphics to highlight PTI’s building interior and trade show graphics, logos, animations, and T-shirts to support PTI’s brand when they take their message on the road.
 
 
 <div class="images">
@@ -85,3 +85,25 @@ srcset="/img/projects/pti-assorted-projects/pti-military-eagle-2400.jpg 2400w,
   <source src="/video/pti-assorted-projects/pti-animated-logo.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
+
+<div class="images">
+
+<img class="half first fit" data-aos="fade-up" data-featherlight="/img/projects/pti-assorted-projects/pti-tshirt-mockup-one-1800.jpg"
+alt="PTI Billboard 1" src="/img/projects/pti-assorted-projects/pti-tshirt-mockup-one-1800.jpg"
+srcset="/img/projects/pti-assorted-projects/pti-tshirt-mockup-one-1800-2400.jpg 2400w,
+/img/projects/pti-assorted-projects/pti-tshirt-mockup-one-1800-1800.jpg 1800w,
+/img/projects/pti-assorted-projects/pti-tshirt-mockup-one-1800-1200.jpg 1200w,
+/img/projects/pti-assorted-projects/pti-tshirt-mockup-one-1800-900.jpg 900w,
+/img/projects/pti-assorted-projects/pti-tshirt-mockup-one-1800-600.jpg 600w,
+/img/projects/pti-assorted-projects/pti-tshirt-mockup-one-1800-400.jpg 400w" />
+
+<img class="half last fit" data-aos="fade-up" data-featherlight="/img/projects/pti-assorted-projects/pti-tshirt-mockup-two-1800.jpg"
+alt="PTI Billboard 2" src="/img/projects/pti-assorted-projects/pti-tshirt-mockup-two-1800.jpg"
+srcset="/img/projects/pti-assorted-projects/pti-tshirt-mockup-two-1800-2400.jpg 2400w,
+/img/projects/pti-assorted-projects/pti-tshirt-mockup-two-1800-1800.jpg 1800w,
+/img/projects/pti-assorted-projects/pti-tshirt-mockup-two-1800-1200.jpg 1200w,
+/img/projects/pti-assorted-projects/pti-tshirt-mockup-two-1800-900.jpg 900w,
+/img/projects/pti-assorted-projects/pti-tshirt-mockup-two-1800-600.jpg 600w,
+/img/projects/pti-assorted-projects/pti-tshirt-mockup-two-1800-400.jpg 400w" />
+
+</div>
