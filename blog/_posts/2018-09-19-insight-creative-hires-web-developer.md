@@ -5,19 +5,19 @@ author: Emily Morehart
 description: "Insight Creative recently hired Justin Parsons as web developer."
 text-color: 'ffffff'
 back-color: '000029'
-cover-image: Justin Parsons.jpg
+cover-image: Justin_Parson_Full.jpg
 tag: blog
 ---
 
-<img data-aos="fade-up" src="/img/blog/Justin Parsons.jpg"
+<img data-aos="fade-up" src="/img/blog/Justin_Parson_Full.jpg"
 alt="UW-Green Bay Communications and Design Students Scholarship"
 srcset="
-/img/blog/Justin Parsons.jpg 2400w,
-/img/blog/Justin Parsons.jpg 1800w,
-/img/blog/Justin Parsons.jpg 1200w,
-/img/blog/Justin Parsons.jpg 900w,
-/img/blog/Justin Parsons.jpg 600w,
-/img/blog/Justin Parsons.jpg 400w" />
+/img/blog/Justin_Parson_Full.jpg 2400w,
+/img/blog/Justin_Parson_Full.jpg 1800w,
+/img/blog/Justin_Parson_Full.jpg 1200w,
+/img/blog/Justin_Parson_Full.jpg 900w,
+/img/blog/Justin_Parson_Full.jpg 600w,
+/img/blog/Justin_Parson_Full.jpg 400w" />
 
 Insight Creative recently hired Justin Parsons as web developer. As a member of the creative team, Parsons will design, develop and maintain custom websites for Insight’s wide-ranging customer base.
 
