@@ -19,7 +19,7 @@ When PTI needed assistance with driver recruitment and retention, Insight delive
 
 From a multiple-state digital billboard campaign to recruit new drivers to driver safety and orientation videos, Insight provided the guidance to find and retain quality drivers.
 
-In addition, Insight designed dynamic interior graphics to highlight PTI’s building interior and trade show graphics, logos, animations and T-shirts to support PTI’s brand when they take their message on the road.
+In addition, Insight designed dynamic interior graphics to highlight PTI’s building interior and trade show graphics, logos, T-shirts, and animations to support PTI’s brand when they take their message on the road.
 
 
 <div class="images">
