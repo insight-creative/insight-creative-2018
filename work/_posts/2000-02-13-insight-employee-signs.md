@@ -105,24 +105,6 @@ srcset="/img/projects/insight-employee-signs/insight-employee-signs-bart-2400.jp
 /img/projects/insight-employee-signs/insight-employee-signs-bart-600.jpg 600w,
 /img/projects/insight-employee-signs/insight-employee-signs-bart-400.jpg 400w" />
 
-<img class="half first fit" data-aos="fade-up" data-featherlight="/img/projects/insight-employee-signs/insight-employee-signs-tyler.jpg"
-alt="Portrait of Tyler Bramer" src="/img/projects/insight-employee-signs/insight-employee-signs-tyler.jpg"
-srcset="/img/projects/insight-employee-signs/insight-employee-signs-tyler-2400.jpg 2400w,
-/img/projects/insight-employee-signs/insight-employee-signs-tyler-1800.jpg 1800w,
-/img/projects/insight-employee-signs/insight-employee-signs-tyler-1200.jpg 1200w,
-/img/projects/insight-employee-signs/insight-employee-signs-tyler-900.jpg 900w,
-/img/projects/insight-employee-signs/insight-employee-signs-tyler-600.jpg 600w,
-/img/projects/insight-employee-signs/insight-employee-signs-tyler-400.jpg 400w" />
-
-<img class="half last fit" data-aos="fade-up" data-featherlight="/img/projects/insight-employee-signs/insight-employee-signs-zane.jpg"
-alt="Portrait of Zane Statz" src="/img/projects/insight-employee-signs/insight-employee-signs-zane.jpg"
-srcset="/img/projects/insight-employee-signs/insight-employee-signs-zane-2400.jpg 2400w,
-/img/projects/insight-employee-signs/insight-employee-signs-zane-1800.jpg 1800w,
-/img/projects/insight-employee-signs/insight-employee-signs-zane-1200.jpg 1200w,
-/img/projects/insight-employee-signs/insight-employee-signs-zane-900.jpg 900w,
-/img/projects/insight-employee-signs/insight-employee-signs-zane-600.jpg 600w,
-/img/projects/insight-employee-signs/insight-employee-signs-zane-400.jpg 400w" />
-
 <img class="half first fit" data-aos="fade-up" data-featherlight="/img/projects/insight-employee-signs/insight-employee-signs-andy.jpg"
 alt="Portrait of Andy VanRemortel" src="/img/projects/insight-employee-signs/insight-employee-signs-andy.jpg"
 srcset="/img/projects/insight-employee-signs/insight-employee-signs-andy-2400.jpg 2400w,
