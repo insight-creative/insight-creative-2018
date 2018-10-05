@@ -10,7 +10,7 @@ tag: blog
 ---
 
 <img data-aos="fade-up" src="/img/blog/vote-with-flag-background.jpg"
-alt="UW-Green Bay Communications and Design Students Scholarship"
+alt="How to Advertise Effectively During a Political Year"
 srcset="
 /img/blog/vote-with-flag-background.jpg 2400w,
 /img/blog/vote-with-flag-background.jpg 1800w,
@@ -26,7 +26,7 @@ If you’re a media buyer, “preempt” is most likely top on your list of curs
 ### 1. Book schedules early
 
 <img data-aos="fade-up" src="/img/blog/2019.jpg"
-alt="UW-Green Bay Communications and Design Students Scholarship"
+alt="Sparkler lighting photo 2019"
 srcset="
 /img/blog/2019.jpg 2400w,
 /img/blog/2019.jpg 1800w,
@@ -42,7 +42,7 @@ Another idea, if you are sitting on a schedule waiting for client approval to pu
 ### 2. Use bookended spots
 
 <img data-aos="fade-up" src="/img/blog/bookshelfIWithCatBookend.jpg"
-alt="UW-Green Bay Communications and Design Students Scholarship"
+alt="Books on a bookshelf"
 srcset="
 /img/blog/bookshelfIWithCatBookend.jpg 2400w,
 /img/blog/bookshelfIWithCatBookend.jpg 1800w,
@@ -56,7 +56,7 @@ There are a limited number of thirty-second spots that can run in commercial bre
 ### 3. Know your media reps and use them as a resource
 
 <img data-aos="fade-up" src="/img/blog/manAndWomanConsulting.jpg"
-alt="UW-Green Bay Communications and Design Students Scholarship"
+alt="maleMediaRepConsulting"
 srcset="
 /img/blog/manAndWomanConsulting.jpg 2400w,
 /img/blog/manAndWomanConsulting.jpg 1800w,
@@ -70,7 +70,7 @@ Your trusted vendors can be your best bet to get through a political year.  They
 ### 4. Consider alternatives to a traditional TV schedule
 
 <img data-aos="fade-up" src="/img/blog/Molly-Blog-NetworkLogos-01.jpg"
-alt="UW-Green Bay Communications and Design Students Scholarship"
+alt="cableNetworkLogos"
 srcset="
 /img/blog/Molly-Blog-NetworkLogos-01.jpg 2400w,
 /img/blog/Molly-Blog-NetworkLogos-01.jpg 1800w,
