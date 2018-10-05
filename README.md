@@ -131,10 +131,24 @@ gulp compress
 ### 5. Push to GitHub
 
 Push changes to GitHub. **Note: When you push to github it instantiates a new build on [Netlify](https://app.netlify.com/).** *Don't know how to use GitHub? [Start training](https://services.github.com/on-demand/intro-to-github/).*
+
+1. ```git pull``` to make sure your local repository is up to date with any code changes
+
+2. Create a new feature branch for the website additions that you are making ex. ```git checkout -b newFeatureBranchName```
+
+3. Add and commit your changes to your new feature branch that you just created
+
+4. Push your commit using ```git push origin newFeatureBranchName```
+
+5. Go to GitHub and click on "branches"
+
+6. Click "New pull request" to open a new pull request for review
+
+7. Once your code has been reviewed and your feature branch is merged with the master branch, Netlify will instantiate a new build automatically
+
 ### 6. Check Netlify
 
 When you push a new commit to github Netlify will automatically start running a new build of the site and then push that version live when it is complete. You can make sure the build worked by [logging in](https://app.netlify.com/) and going to the **Deploys** page for Insight 2018. You can also rollback to previous versions or stop auto publishing new builds. For more information on how to use Netlify refer to their [documentation](https://www.netlify.com/docs/).
-
 
 ## Homepage Slider
 
