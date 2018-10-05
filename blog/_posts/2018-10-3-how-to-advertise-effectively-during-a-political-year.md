@@ -4,7 +4,7 @@ title: "How to Advertise Effectively During a Political Year"
 author: Molly Setzer
 description: "Advertising during a political year can be a very daunting task. Here are tips to help you succeed!"
 text-color: 'ffffff'
-back-color: '6a2790'
+back-color: '1e253d'
 cover-image: vote-with-flag-background.jpg
 tag: blog
 ---
