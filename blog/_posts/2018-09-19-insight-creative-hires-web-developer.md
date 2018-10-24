@@ -10,7 +10,7 @@ tag: blog
 ---
 
 <img data-aos="fade-up" src="/img/blog/Justin_Parson_Full.jpg"
-alt="UW-Green Bay Communications and Design Students Scholarship"
+alt="Headshot of Insight Creatives new web developer Justin Parsons"
 srcset="
 /img/blog/Justin_Parson_Full.jpg 2400w,
 /img/blog/Justin_Parson_Full.jpg 1800w,
