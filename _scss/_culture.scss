@@ -952,19 +952,19 @@
         }
     }
 
-    [data-color=midnightblue] {
-        @include radial-gradient(#00005c, #000029);
+    [data-color=yellower] {
+        @include radial-gradient(#ffd44d, #ffc200);
 
         h1 {
-            color: #eeeeee;
+            color: #272a3b;
         }
 
         h2 {
-            color: #ffffff;
+            color: #295a78;
         }
 
         p {
-            color: #EEEEFF;
+            color: #2a2a2a;
         }
     }
 
