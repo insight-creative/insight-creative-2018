@@ -27,7 +27,7 @@ I’m proud to say Insight is growing. We’ve been increasing business with cur
 
 3. **_Provide your current clients with exceptional customer service._** Make sure you also encourage them to refer their friends. Satisfied current clients—and their successful testimonials—will be your best sales tool.
 
-4. **_Offer to be a guest speaker at events._** You’re a wealth of knowledge. Develop a presentation about your strengths and give just enough nuggets of wisdom that attendees want to know more. Make sure you reach out to everyone in attendance to see if a followup meeting is warranted.
+4. **_Offer to be a guest speaker at events._** You’re a wealth of knowledge. Develop a presentation about your strengths and give just enough nuggets of wisdom that attendees want to know more. Make sure you reach out to everyone in attendance to see if a follow-up meeting is warranted.
 
 5. **_Offer a one-time discount._** Often people don’t know what they’re missing until they’ve experienced something better. Give prospects a chance to utilize your services at a discount. After all, they have a boss to report to. This takes the pressure off making a bad decision. Just make sure you impress them with the project.
 
