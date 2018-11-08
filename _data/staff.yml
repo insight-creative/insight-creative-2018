@@ -117,9 +117,10 @@
 #  image2: /img/employees/tyler/tyler-2.png
 #  image3: /img/employees/tyler/tyler-3.png
 
-- name: Jennifer De Bruin
+- name: Jenny De Bruin
   job_title: Social Media Coordinator
-  bio: "Jennifer brings a unique blend of corporate and agency experience in her role as social media coordinator. As an essential part of the content department, she is able to showcase her diverse writing expertise and tech skills throughout all of her social media efforts. Jennifer holds a degree from UW-Whitewater in public relations, with an emphasis in journalism."
+  bio: "Jenny brings a unique blend of corporate and agency experience in her role as social media coordinator. As an essential part of the content department, she is able to showcase
+   her diverse writing expertise and tech skills throughout all of her social media efforts. Jenny holds a degree from UW-Whitewater in public relations, with an emphasis in journalism."
   color: magenta
   image1: /img/employees/jennifer/jennifer-4.png
   image2: /img/employees/jennifer/jennifer-4.png
