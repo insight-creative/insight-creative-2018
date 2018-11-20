@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: B2B vs B2C - What You Need to Dominate Social Media
-author: Jennifer Rogers
+author: Jenny De Bruin
 description: "From hundreds of articles and resources, everyone knows that sharing content on social media is key ... but what's the correct approach? Social Media Coordinator Jennifer Rogers illustrates what content is best for B2B and B2C companies."
 text-color: 'fff'
 back-color: 'b1807d'

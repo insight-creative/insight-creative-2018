@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Insight Creative, Inc. Enhances team with New Hires and a Promotion
-author: Jennifer Rogers
+author: Jenny De Bruin
 tags:
 - blog
 card: summary

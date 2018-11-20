@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Fresh Eyes on Media Buys
-author: Molly Setzers
+author: Molly Setzer
 description: "When a position opened up in Insight's Media Department, I did something out of character for me ... I embraced change."
 text-color: 'fff'
 back-color: 'C8A1B3'

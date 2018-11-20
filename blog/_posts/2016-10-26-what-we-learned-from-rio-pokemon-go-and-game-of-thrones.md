@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: What We Learned from Rio, Pokémon Go and <i>Game of Thrones</i>
-author: Jennifer Rogers
+author: Jenny De Bruin
 tag: blog
 card: summary
 description: "What We Learned from Rio, Pokémon Go and Game of Thrones"

@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Back to Basics with Content
-author: Jennifer Rogers
+author: Jenny De Bruin
 tag: blog
 card: summary
 description: "Back to Basics with Content"

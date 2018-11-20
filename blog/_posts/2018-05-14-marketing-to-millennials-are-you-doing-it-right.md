@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Marketing to Millennials: Are You Doing It Right?"
-author: Jennifer Rogers
+author: Jenny De Bruin
 description: "In today's world, it appears nearly every brand is trying to target a specific group of people: millennials. Well, here's Jennifer Roger's advice ... don't target millennials."
 text-color: 'fff'
 back-color: 'a3998b'
