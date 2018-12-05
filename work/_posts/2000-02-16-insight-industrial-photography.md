@@ -3,7 +3,7 @@ layout: project
 title: Industrial Photography Showcase
 client: Insight Creative, Inc.
 description: Impactful industrial photography that can forge new client relationships.
-cover-image: insight-industrial-photography/insight-industrial-photography-molten
+cover-image: insight-industrial-photography/final-Motorcycle
 cover-text-color: fff
 back-color1: e22357
 back-color2: d31145
