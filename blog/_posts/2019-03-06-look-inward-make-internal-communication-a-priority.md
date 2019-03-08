@@ -15,9 +15,9 @@ srcset="
 /img/blog/LookInwardMakeInternalCommunicationsAPriority-2400.jpg 2400w,
 /img/blog/LookInwardMakeInternalCommunicationsAPriority-1800.jpg 1800w,
 /img/blog/LookInwardMakeInternalCommunicationsAPriority-1200.jpg 1200w,
-/img/blog/LookInwardMakeInternalCommunicationsAPriorit-900.jpg 900w,
-/img/blog/LookInwardMakeInternalCommunicationsAPriorit-600.jpg 600w,
-/img/blog/LookInwardMakeInternalCommunicationsAPriorit-400.jpg 400w" />
+/img/blog/LookInwardMakeInternalCommunicationsAPriority-900.jpg 900w,
+/img/blog/LookInwardMakeInternalCommunicationsAPriority-600.jpg 600w,
+/img/blog/LookInwardMakeInternalCommunicationsAPriority-400.jpg 400w" />
 
 As a public relations professional, I’m familiar with defining audiences as internal or external, but I’m frequently surprised at how often the first audience gets overlooked. In my years working in both the creative agency and corporate marketing settings, I’ve observed a consistent trend with most companies: They spend the bulk of their communications budget, time and efforts strictly on external audiences without evaluating the value of a strong internal communications plan.
 
