@@ -14,7 +14,7 @@ tags:
 
 ---
 
-<a href="http://powerspaper.com/" target="_blank" rel="noopener">Powers Paper, LLC</a> is brand new company revolutionizing the away-from-home towel and tissue market. A small company, competing against gargantuan multi-national corporations, Powers Paper products offer superior performance and cost savings, plus their “hook”—an innovative business model that is designed to provide distributors with a sustainable competitive advantage. Their business proposition is further complicated by the need to reach both the foodservice and janitorial-sanitation markets and within each to speak to three separate audiences:
+<a href="http://powerspaper.com/" target="\_blank" rel="noopener">Powers Paper, LLC</a> is brand new company revolutionizing the away-from-home towel and tissue market. A small company, competing against gargantuan multi-national corporations, Powers Paper products offer superior performance and cost savings, plus their “hook”—an innovative business model that is designed to provide distributors with a sustainable competitive advantage. Their business proposition is further complicated by the need to reach both the foodservice and janitorial-sanitation markets and within each to speak to three separate audiences:
 
 - **End users**—those actually using the napkins, toweling and other Powers Paper products.
 - **End buyers**—restaurants, offices, etc. that purchase the products to use in their locations.

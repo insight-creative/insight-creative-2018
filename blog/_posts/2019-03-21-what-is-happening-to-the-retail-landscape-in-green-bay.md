@@ -2,7 +2,7 @@
 layout: blog
 title: "What is Happening to the Retail Landscape in Green Bay?"
 author: Niki Petit
-description: "If you’re on the fence regarding an internal communications plan, I can assure you there is value in a program that is executed properly. Here are five simple ideas to consider:"
+description: "If you’re like me, you’re still shaking your head wondering what happened to Port Plaza Mall."
 text-color: 'ffffff'
 back-color: '675f8c'
 cover-image: WhatisHappeningtotheRetailLandscapeinGreenBay.jpg

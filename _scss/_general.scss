@@ -53,15 +53,15 @@ p {
         height: 2px;
         background: $dark-gray;
         content: '';
-        opacity: 0;
+        opacity: 1;
         z-index: 2;
         @include transition(all .5s);
-        @include transform(translateY(5px));
+        @include transform(translateY(1px));
     }
 
     a:focus::after,
     a:hover::after {
-        opacity: 1;
+        opacity: 0;
         @include transform(translateY(0px));
     }
 }

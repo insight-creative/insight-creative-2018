@@ -2,7 +2,7 @@
 layout: blog
 title: "Let’s Go Fishin’!"
 author: Brian Brost
-description: "If you’re on the fence regarding an internal communications plan, I can assure you there is value in a program that is executed properly. Here are five simple ideas to consider:"
+description: "I’ve been in a sales or account management position for quite a few years now. Along the way I’ve heard the question posed "
 text-color: 'ffffff'
 back-color: 'd31145'
 cover-image: letsGoFishing.jpg
