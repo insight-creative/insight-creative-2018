@@ -13,10 +13,8 @@ tags:
 - Social Media  
 - Identity
 - Branding
-- Photography
 - Public Relations
 - Media Buying
-- Video
 
 ---
 
