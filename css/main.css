@@ -9317,6 +9317,8 @@ fieldset, table {
         .careers .position-description ul.position-list li p {
           margin: 0;
           padding: 0; }
+    .careers .position-description a {
+      text-decoration: none; }
 
 @font-face {
   font-family: "socicon";
