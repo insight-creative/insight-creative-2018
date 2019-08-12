@@ -10939,4 +10939,47 @@ body[data-aos-easing="ease-in-out-quart"] [data-aos], [data-aos][data-aos][data-
   .location h3 {
     font-weight: normal; }
 
+.studio-header {
+  height: 70vh;
+  overflow: hidden;
+  margin-bottom: 3em;
+  position: relative;
+  background: url("/img/agency/studio-1800.jpg");
+  background-size: cover;
+  background-position: center center; }
+  @media screen and (min-width: 600px) {
+    .studio-header {
+      margin-bottom: 5em; } }
+  @media screen and (min-width: 900px) {
+    .studio-header {
+      margin-bottom: 8em; } }
+  .studio-header .text {
+    position: absolute;
+    z-index: 2;
+    text-align: center;
+    display: table;
+    height: 100%;
+    width: 100%;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.7); }
+    .studio-header .text h1 {
+      text-align: center;
+      display: table-cell;
+      vertical-align: middle;
+      color: #fff;
+      float: none; }
+      @media screen and (min-width: 600px) {
+        .studio-header .text h1 {
+          text-shadow: 0 0 15px rgba(0, 0, 0, 0.7);
+          font-size: 3.1573345183em; } }
+      @media screen and (min-width: 900px) {
+        .studio-header .text h1 {
+          font-size: 5.6102329749em; } }
+      @media screen and (min-width: 1200px) {
+        .studio-header .text h1 {
+          text-shadow: 0 0 25px rgba(0, 0, 0, 0.7);
+          font-size: 7.4784405556em; } }
+      @media screen and (min-width: 1800px) {
+        .studio-header .text h1 {
+          font-size: 9.9687612606em; } }
+
 /*# sourceMappingURL=main.css.map */
