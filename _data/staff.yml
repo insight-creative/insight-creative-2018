@@ -93,6 +93,22 @@
   image2: /img/employees/emily/emily-4.png
   image3: /img/employees/emily/emily-4.png
 
+- name: Bryce Van Laanen
+  job_title: Videographer/Photographer
+  bio: "Bryce brings his real-world experience as a former Los Angeles videographer to Insight.  His professional video production skills coupled with his raw, natural talent makes Bryce a huge asset to the team.  He also holds his pilot’s license and is currently Insight’s top drone operator.  Bryce earned a degree in business communication with an emphasis in film/journalism from UW-La Crosse."
+  color: darkred
+  image1: /img/employees/bryce/Bryce.png
+  image2: /img/employees/bryce/Bryce.png
+  image3: /img/employees/bryce/Bryce.png
+
+- name: Talia Radke
+  job_title: Social Media/Digital Content Specialist
+  bio: "Talia brings a unique blend of creativity and corporate experience to her role as social media/digital content specialist.  As an essential part of the content department, she is able to showcase her diverse writing expertise and technical skills through her innovative social media strategies.  Talia holds a degree from UW-Stevens Point in business administration with an emphasis on marketing."
+  color: magenta
+  image1: /img/employees/talia/Talia.png
+  image2: /img/employees/talia/Talia.png
+  image3: /img/employees/talia/Talia.png
+
 # - name: Bart Raboin
 #   job_title: Interactive/Web Designer
 #   bio: "As an interactive designer, Bart’s responsibilities include website design, development and programming along with the implementation of interactive media. A graduate of Northern Michigan University, he previously worked at Bearingpoint and as a web developer for Shopko Corporation. Bart has done significant freelance web development, taking many websites from concept to layout to programming and completion."

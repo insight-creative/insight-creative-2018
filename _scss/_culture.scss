@@ -151,8 +151,10 @@
                 height: 100%;
                 min-width: 100%;
                 min-height: 100%;
-                object-fit: cover;
-                object-position: center 20%;
+                -o-object-fit: cover;
+                   object-fit: cover;
+                -o-object-position: center 20%;
+                   object-position: center 20%;
             }
         }
 
@@ -905,7 +907,7 @@
     }
 
     [data-color=magenta] {
-        @include radial-gradient(#78183a, #4f1131);
+        @include radial-gradient(#bf2671, #7f194b);
 
         h1 {
             color: #efdd93;
@@ -917,6 +919,22 @@
 
         p {
             color: #f2ebf7;
+        }
+    }
+
+    [data-color=darkred] {
+        @include radial-gradient(#de3657, #ac1c38);
+
+        h1 {
+            color: #ffffff;
+        }
+
+        h2 {
+            color: #fc91a0;
+        }
+
+        p {
+            color: #ffffff;
         }
     }
 
