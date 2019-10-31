@@ -1,0 +1,77 @@
+.client {
+  .wrapper {
+    margin: auto 0;
+  }
+  .project {
+    display: block !important;
+  }
+  .project-info {
+    background: -webkit-linear-gradient(to bottom right, #d31145, #a40d36);
+    background: -o-linear-gradient(to bottom right, #d31145, #a40d36);
+    background: -moz-linear-gradient(to bottom right, #d31145, #a40d36);
+    background: linear-gradient(to bottom right, #d31145, #a40d36);
+  }
+  .text {
+    h2, h3 {
+      color: #fff;
+    }
+  }
+  #work {
+    margin-top: 25px;
+    margin-bottom: 50px;
+  }
+  .design-pano {
+    margin-top: 50px;
+  }
+}
+.lrc-header {
+    height: 20vh;
+    overflow: hidden;
+    margin-bottom: $mobile-spacing;
+    position: relative;
+    background: url('/img/clients/LittleRapidsLogosWithInsightLogo.jpg');
+    background-size: cover;
+    background-position: center center;
+    @include media($tablet) {
+        margin-bottom: $tablet-spacing;
+    }
+    @include media($desktop) {
+        margin-bottom: $desktop-spacing;
+    }
+}
+.redBtn {
+    width: -webkit-max-content;
+    width: -moz-max-content;
+    width: max-content;
+    padding: 10px 25px;
+    display: block;
+    color: #fff !important;
+    border: none;
+    background: $brand-color;
+    font-family: "futura-pt", sans-serif;
+    font-size: 1.3em;
+    @include transition(all .5s);
+    cursor: pointer;
+    @include media($desktop){
+      font-size: 1.4em;
+    }
+    &:after {
+      height: 0;
+    }
+}
+.redBtn:hover{
+  background:$dark-gray;
+  @include transition(all .5s);
+}
+.center-text {
+  text-align: center;
+}
+.center {
+  margin: 0 auto;
+}
+.client-project-container .redBtn {
+  margin-top: 25px;
+}
+#proposals {
+  margin-top: 50px;
+}

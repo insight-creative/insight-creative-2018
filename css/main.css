@@ -443,8 +443,7 @@ html {
 :root .fa-rotate-270,
 :root .fa-flip-horizontal,
 :root .fa-flip-vertical {
-  -webkit-filter: none;
-          filter: none; }
+  filter: none; }
 
 .fa-stack {
   position: relative;
@@ -3316,8 +3315,7 @@ html {
   transform: translateX(100%); }
 
 [data-aos^=flip][data-aos^=flip] {
-  -webkit-backface-visibility: hidden;
-          backface-visibility: hidden;
+  backface-visibility: hidden;
   transition-property: transform; }
 
 [data-aos=flip-left] {
@@ -3343,6 +3341,8 @@ html {
 
 [data-aos=flip-down].aos-animate {
   transform: perspective(2500px) rotateX(0); }
+
+/*# sourceMappingURL=aos.css.map*/
 *,
 *::after,
 *::before {
@@ -3705,11 +3705,6 @@ fieldset, table {
     audio:last-child {
       margin-right: 0; } }
 
-::-moz-selection {
-  background: #d31145;
-  opacity: 1;
-  color: #fff; }
-
 ::selection {
   background: #d31145;
   opacity: 1;
@@ -3784,8 +3779,7 @@ fieldset, table {
   pointer-events: none;
   -webkit-user-select: none;
   -moz-user-select: none;
-  -ms-user-select: none;
-      user-select: none; }
+  user-select: none; }
 
 .pace-inactive {
   display: none; }
@@ -3803,10 +3797,8 @@ fieldset, table {
   background: #000; }
 
 .fit {
-  -o-object-fit: cover;
-     object-fit: cover;
-  -o-object-position: center;
-     object-position: center;
+  object-fit: cover;
+  object-position: center;
   font-family: "object-fit: cover; object-position: center;"; }
 
 .social-widgets {
@@ -3986,8 +3978,7 @@ fieldset, table {
     position: relative;
     height: 2px;
     width: 22px;
-    -webkit-backface-visibility: hidden;
-            backface-visibility: hidden; }
+    backface-visibility: hidden; }
   .cd-auto-hide-header .nav-trigger em {
     /* this is the menu central line */
     margin: 6px auto 14px;
@@ -4429,10 +4420,8 @@ fieldset, table {
     .testimonial-slider .cd-hero-slider .project-image-wrapper img {
       min-width: 100%;
       min-height: 100%;
-      -o-object-fit: cover;
-         object-fit: cover;
-      -o-object-position: center;
-         object-position: center; }
+      object-fit: cover;
+      object-position: center; }
   .home-slider .cd-hero-slider h2,
   .home-slider .cd-hero-slider h3,
   .testimonial-slider .cd-hero-slider h2,
@@ -4939,8 +4928,7 @@ fieldset, table {
   width: 100%;
   overflow: hidden;
   height: 70vh;
-  -webkit-animation: insight-out 0.1s 10s 1 forwards;
-          animation: insight-out 0.1s 10s 1 forwards;
+  animation: insight-out 0.1s 10s 1 forwards;
   z-index: 100; }
   .hero:last-child {
     margin-right: 0; }
@@ -4976,8 +4964,7 @@ fieldset, table {
     bottom: auto;
     right: auto;
     transform: translateX(-50%) translateY(-50%);
-    -webkit-animation: insight-intro 1s 7s 1 forwards;
-            animation: insight-intro 1s 7s 1 forwards;
+    animation: insight-intro 1s 7s 1 forwards;
     opacity: 0; }
     .hero-video-container .text-overlay h1 {
       text-align: center;
@@ -5153,8 +5140,7 @@ fieldset, table {
   position: relative;
   height: 250px;
   overflow: hidden;
-  -o-object-fit: cover;
-     object-fit: cover;
+  object-fit: cover;
   background-size: cover;
   background-position: center;
   display: none;
@@ -5361,10 +5347,8 @@ fieldset, table {
     position: relative;
     min-width: 100%;
     min-height: 100%;
-    -o-object-fit: cover;
-       object-fit: cover;
-    -o-object-position: center;
-       object-position: center;
+    object-fit: cover;
+    object-position: center;
     background: #c1c1c1;
     left: 0;
     height: 250px; }
@@ -5391,8 +5375,7 @@ fieldset, table {
     position: relative;
     height: 300px;
     overflow: hidden;
-    -o-object-fit: cover;
-       object-fit: cover;
+    object-fit: cover;
     background-size: cover;
     background-position: center;
     display: none;
@@ -5697,8 +5680,7 @@ fieldset, table {
         position: relative;
         height: 300px;
         overflow: hidden;
-        -o-object-fit: cover;
-           object-fit: cover;
+        object-fit: cover;
         background-size: cover;
         background-position: center; }
         .services .service-description .service-project-container .service-project:last-child {
@@ -5964,15 +5946,11 @@ fieldset, table {
       margin-right: 0; }
     .clients .client img {
       width: 100%;
-      -webkit-filter: grayscale(100%);
-              filter: grayscale(100%);
-      transition: -webkit-filter 0.5s;
+      filter: grayscale(100%);
       transition: filter 0.5s;
-      transition: filter 0.5s, -webkit-filter 0.5s;
       padding-top: -100px; }
       .clients .client img:hover {
-        -webkit-filter: grayscale(0);
-                filter: grayscale(0); }
+        filter: grayscale(0); }
     @media screen and (min-width: 900px) {
       .clients .client {
         padding: 1em;
@@ -6023,16 +6001,14 @@ fieldset, table {
     position: absolute;
     z-index: 2;
     height: 100%;
-    -o-object-fit: cover;
-       object-fit: cover; }
+    object-fit: cover; }
     .studio-pano img.light:hover {
       opacity: 0; }
   .studio-pano img.dark {
     position: relative;
     z-index: 1;
     height: 100%;
-    -o-object-fit: cover;
-       object-fit: cover; }
+    object-fit: cover; }
 
 .design-pano {
   margin-bottom: 3em;
@@ -6352,10 +6328,8 @@ fieldset, table {
     .project-body .images img {
       padding-top: 0.2em 0;
       cursor: pointer;
-      -o-object-fit: cover;
-         object-fit: cover;
-      -o-object-position: center;
-         object-position: center; }
+      object-fit: cover;
+      object-position: center; }
       @media screen and (min-width: 900px) {
         .project-body .images img {
           padding: 0.2em; }
@@ -6501,8 +6475,7 @@ fieldset, table {
         -moz-transition: all 1s;
         transition: all 1s; }
       .project-body .images img.no-crop {
-        -o-object-fit: fill;
-           object-fit: fill;
+        object-fit: fill;
         height: auto; }
     .project-body .images .fill-back {
       background: #eee;
@@ -6520,8 +6493,7 @@ fieldset, table {
         margin-right: 6.6666666667%;
         width: 100%;
         position: relative;
-        -o-object-fit: fill;
-           object-fit: fill;
+        object-fit: fill;
         cursor: default; }
         .project-body .images .fill-back img:last-child {
           margin-right: 0; }
@@ -6634,10 +6606,8 @@ fieldset, table {
     width: 46.6666666667%;
     margin-right: 0;
     width: 50%;
-    -o-object-fit: cover;
-       object-fit: cover;
-    -o-object-position: center;
-       object-position: center; }
+    object-fit: cover;
+    object-position: center; }
     .nextprevious .next-project:last-child,
     .nextprevious .previous-project:last-child {
       margin-right: 0; }
@@ -6679,10 +6649,8 @@ fieldset, table {
       /* display: table;   For next/previous solid color */
       width: 100%;
       height: 100%;
-      -o-object-fit: cover;
-         object-fit: cover;
-      -o-object-position: center;
-         object-position: center;
+      object-fit: cover;
+      object-position: center;
       margin: 0; }
       .nextprevious .next-project .center-text h2,
       .nextprevious .previous-project .center-text h2 {
@@ -6710,16 +6678,13 @@ fieldset, table {
       .nextprevious .previous-project .center-text img {
         min-width: 100%;
         min-height: 100%;
-        -o-object-fit: cover;
-           object-fit: cover;
-        -o-object-position: center;
-           object-position: center; }
+        object-fit: cover;
+        object-position: center; }
     .nextprevious .next-project .project,
     .nextprevious .previous-project .project {
       height: 100%;
       width: 100%;
-      -o-object-fit: cover;
-         object-fit: cover; }
+      object-fit: cover; }
   .nextprevious .project {
     float: left;
     display: block;
@@ -6728,8 +6693,7 @@ fieldset, table {
     position: relative;
     height: 300px;
     overflow: hidden;
-    -o-object-fit: cover;
-       object-fit: cover;
+    object-fit: cover;
     background-size: cover;
     background-position: center;
     display: none;
@@ -6849,10 +6813,8 @@ fieldset, table {
     .nextprevious .project-image-wrapper img {
       min-width: 100%;
       min-height: 100%;
-      -o-object-fit: cover;
-         object-fit: cover;
-      -o-object-position: center;
-         object-position: center; }
+      object-fit: cover;
+      object-position: center; }
 
 .back-work {
   float: left;
@@ -10393,8 +10355,7 @@ body[data-aos-easing="ease-in-out-quart"] [data-aos], [data-aos][data-aos][data-
     max-height: 500px; }
 
 [data-aos^='fade-rotate'][data-aos^='fade-rotate'] {
-  -webkit-backface-visibility: hidden;
-          backface-visibility: hidden;
+  backface-visibility: hidden;
   transform: rotateY(20deg) rotateX(30deg);
   transform-origin: 0% 50%;
   transition-property: opacity, transform; }
@@ -10469,8 +10430,7 @@ body[data-aos-easing="ease-in-out-quart"] [data-aos], [data-aos][data-aos][data-
  * flip-left, flip-right, flip-up, flip-down
  */
 [data-aos^='flip'][data-aos^='flip'] {
-  -webkit-backface-visibility: hidden;
-          backface-visibility: hidden;
+  backface-visibility: hidden;
   transition-property: transform; }
 
 [data-aos='flip-left'] {
@@ -10763,10 +10723,8 @@ body[data-aos-easing="ease-in-out-quart"] [data-aos], [data-aos][data-aos][data-
   .play img {
     width: 100%;
     height: 100%;
-    -o-object-fit: cover;
-       object-fit: cover;
-    -o-object-position: center;
-       object-position: center;
+    object-fit: cover;
+    object-position: center;
     transition: all 3s; }
   .play img:hover {
     transform: scale(1.2); }
@@ -10820,10 +10778,8 @@ body[data-aos-easing="ease-in-out-quart"] [data-aos], [data-aos][data-aos][data-
       position: relative;
       min-width: 100%;
       min-height: 100%;
-      -o-object-fit: cover;
-         object-fit: cover;
-      -o-object-position: center;
-         object-position: center; }
+      object-fit: cover;
+      object-position: center; }
   .play svg {
     float: left;
     display: block;
@@ -10854,23 +10810,11 @@ body[data-aos-easing="ease-in-out-quart"] [data-aos], [data-aos][data-aos][data-
     stroke-dasharray: 1000px;
     stroke-dashoffset: 1000px;
     stroke-miterlimit: 5;
-    -webkit-animation-name: draw;
-            animation-name: draw;
-    -webkit-animation-duration: 2s;
-            animation-duration: 2s;
-    -webkit-animation-fill-mode: forwards;
-            animation-fill-mode: forwards;
-    -webkit-animation-iteration-count: 1;
-            animation-iteration-count: 1;
-    -webkit-animation-timing-function: linear;
-            animation-timing-function: linear; }
-@-webkit-keyframes draw {
-  80% {
-    stroke-dashoffset: 0;
-    fill-opacity: 0; }
-  100% {
-    stroke-dashoffset: 0;
-    fill-opacity: 1; } }
+    animation-name: draw;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: 1;
+    animation-timing-function: linear; }
 @keyframes draw {
   80% {
     stroke-dashoffset: 0;
@@ -11049,3 +10993,76 @@ body[data-aos-easing="ease-in-out-quart"] [data-aos], [data-aos][data-aos][data-
       @media screen and (min-width: 1800px) {
         .studio-header .text h1 {
           font-size: 9.9687612606em; } }
+
+.client .wrapper {
+  margin: auto 0; }
+.client .project {
+  display: block !important; }
+.client .project-info {
+  background: -webkit-linear-gradient(to bottom right, #d31145, #a40d36);
+  background: -o-linear-gradient(to bottom right, #d31145, #a40d36);
+  background: -moz-linear-gradient(to bottom right, #d31145, #a40d36);
+  background: linear-gradient(to bottom right, #d31145, #a40d36); }
+.client .text h2, .client .text h3 {
+  color: #fff; }
+.client #work {
+  margin-top: 25px;
+  margin-bottom: 50px; }
+.client .design-pano {
+  margin-top: 50px; }
+
+.lrc-header {
+  height: 20vh;
+  overflow: hidden;
+  margin-bottom: 3em;
+  position: relative;
+  background: url("/img/clients/LittleRapidsLogosWithInsightLogo.jpg");
+  background-size: cover;
+  background-position: center center; }
+  @media screen and (min-width: 600px) {
+    .lrc-header {
+      margin-bottom: 5em; } }
+  @media screen and (min-width: 900px) {
+    .lrc-header {
+      margin-bottom: 8em; } }
+
+.redBtn {
+  width: -webkit-max-content;
+  width: -moz-max-content;
+  width: max-content;
+  padding: 10px 25px;
+  display: block;
+  color: #fff !important;
+  border: none;
+  background: #d31145;
+  font-family: "futura-pt", sans-serif;
+  font-size: 1.3em;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  transition: all 0.5s;
+  cursor: pointer; }
+  @media screen and (min-width: 900px) {
+    .redBtn {
+      font-size: 1.4em; } }
+  .redBtn:after {
+    height: 0; }
+
+.redBtn:hover {
+  background: #0c0c0c;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  transition: all 0.5s; }
+
+.center-text {
+  text-align: center; }
+
+.center {
+  margin: 0 auto; }
+
+.client-project-container .redBtn {
+  margin-top: 25px; }
+
+#proposals {
+  margin-top: 50px; }
+
+/*# sourceMappingURL=main.css.map */
