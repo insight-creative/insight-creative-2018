@@ -10996,8 +10996,28 @@ body[data-aos-easing="ease-in-out-quart"] [data-aos], [data-aos][data-aos][data-
 
 .client .wrapper {
   margin: auto 0; }
+.client .client-project-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center; }
+  @media screen and (min-width: 1200px) {
+    .client .client-project-container {
+      display: block; } }
+.client .client-project {
+  margin: 5px;
+  width: 100%; }
+  @media screen and (min-width: 900px) {
+    .client .client-project {
+      width: 45%; } }
+  @media screen and (min-width: 1200px) {
+    .client .client-project {
+      width: 100%; } }
 .client .project {
-  display: block !important; }
+  display: block !important;
+  width: 100%; }
+  @media screen and (min-width: 1200px) {
+    .client .project {
+      width: calc((99% / 3) - .4em); } }
 .client .project-info {
   background: -webkit-linear-gradient(to bottom right, #d31145, #a40d36);
   background: -o-linear-gradient(to bottom right, #d31145, #a40d36);

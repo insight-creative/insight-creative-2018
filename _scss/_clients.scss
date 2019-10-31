@@ -2,8 +2,30 @@
   .wrapper {
     margin: auto 0;
   }
+  .client-project-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    @include media($desktop-large) {
+      display: block;
+    }
+  }
+  .client-project {
+    margin: 5px;
+    width: 100%;
+    @include media($desktop) {
+      width: 45%;
+    }
+    @include media($desktop-large) {
+      width: 100%;
+    }
+  }
   .project {
     display: block !important;
+    width: 100%;
+    @include media($desktop-large) {
+      width: calc((99% / 3) - .4em);
+    }
   }
   .project-info {
     background: -webkit-linear-gradient(to bottom right, #d31145, #a40d36);
