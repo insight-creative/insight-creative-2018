@@ -10,7 +10,7 @@ tag: blog
 ---
 
 <img data-aos="fade-up" src="/img/blog/The-Podcast-Surge-2400.jpg"
-alt="The Podcast Surge"
+alt="A podcast production style setup with microphone and headphones on a table"
 srcset="
 /img/blog/The-Podcast-Surge-2400.jpg 2400w,
 /img/blog/The-Podcast-Surge-1800.jpg 1800w,
