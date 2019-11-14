@@ -8770,6 +8770,9 @@ fieldset, table {
   .keepwidth img {
     width: auto; }
 
+ul ul li {
+  list-style-type: circle !important; }
+
 .contact-info {
   margin-bottom: 3em;
   float: left;

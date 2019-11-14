@@ -794,3 +794,10 @@
         width: auto;
     }
 }
+ul {
+  ul {
+    li {
+      list-style-type: circle !important;
+    }
+  }
+}
