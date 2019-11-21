@@ -6,7 +6,7 @@ layout: null
   {% for post in site.posts %}
     {% unless post.published == false %}
     <url>
-      <loc>{{ site.url }}{{ post.url }}</loc>
+      <loc>https://insightcreative.com/{{ post.url }}</loc>
       <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
@@ -15,7 +15,7 @@ layout: null
   {% endfor %}
   {% for page in site.pages %}
   <url>
-    <loc>{{ site.url }}{{ page.url | remove: "index.html" }}</loc>
+    <loc>https://insightcreative.com/{{ page.url | remove: "index.html" }}</loc>
     {% if page.date %}
       <lastmod>{{ page.date | date_to_xmlschema }}</lastmod>
     {% else %}
