@@ -19,7 +19,7 @@ srcset="
 /img/blog/The-Podcast-Surge-600.jpg 600w,
 /img/blog/The-Podcast-Surge-400.jpg 400w" />
 
-Have you noticed how popular podcasts have become? Between celebrities, journalists, industry experts or even some of your own friends and family, it seems everyone has a launched their own podcast. According to Podcast Insights, in 2018 there were 18.5 million podcast episodes and now there are over 30 million! Podcast genres range from news, murder mysteries and comedies, to even specialty topics such as video games. So, just how big is the podcast trend? Check out these facts from Edison Research below:
+Have you noticed how popular podcasts have become? Between celebrities, journalists, industry experts or even some of your own friends and family, it seems everyone has launched their own podcast. According to Podcast Insights, in 2018 there were 18.5 million podcast episodes and now there are over 30 million! Podcast genres range from news, murder mysteries and comedies, to even specialty topics such as video games. So, just how big is the podcast trend? Check out these facts from Edison Research below:
 
 * 51% of the U.S. population has listened to a podcast
 * 50% of all homes are podcast fans (that’s over 60 million homes)
