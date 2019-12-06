@@ -11034,20 +11034,22 @@ body[data-aos-easing="ease-in-out-quart"] [data-aos], [data-aos][data-aos][data-
 .client .design-pano {
   margin-top: 50px; }
 
-.lrc-header {
+.client-header {
   height: 20vh;
   overflow: hidden;
   margin-bottom: 3em;
   position: relative;
-  background: url("/img/clients/LittleRapidsLogosWithInsightLogo.jpg");
   background-size: cover;
   background-position: center center; }
   @media screen and (min-width: 600px) {
-    .lrc-header {
+    .client-header {
       margin-bottom: 5em; } }
   @media screen and (min-width: 900px) {
-    .lrc-header {
+    .client-header {
       margin-bottom: 8em; } }
+
+.lrc-header {
+  background: url("/img/clients/LittleRapidsLogosWithInsightLogo.jpg"); }
 
 .redBtn {
   width: -webkit-max-content;
@@ -11087,5 +11089,16 @@ body[data-aos-easing="ease-in-out-quart"] [data-aos], [data-aos][data-aos][data-
 
 #proposals {
   margin-top: 50px; }
+
+.paddedContainer h2:first-of-type {
+  padding-top: 50px; }
+
+.marketing-ideas .blog-right {
+  margin-top: 10px !important; }
+.marketing-ideas .secondary-blogs h2, .marketing-ideas .secondary-blogs h3 {
+  text-align: left !important; }
+.marketing-ideas p {
+  margin-left: 0;
+  width: 100% !important; }
 
 /*# sourceMappingURL=main.css.map */

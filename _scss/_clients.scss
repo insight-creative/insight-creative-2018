@@ -46,20 +46,22 @@
     margin-top: 50px;
   }
 }
+.client-header {
+  height: 20vh;
+  overflow: hidden;
+  margin-bottom: $mobile-spacing;
+  position: relative;
+  background-size: cover;
+  background-position: center center;
+  @include media($tablet) {
+      margin-bottom: $tablet-spacing;
+  }
+  @include media($desktop) {
+      margin-bottom: $desktop-spacing;
+  }
+}
 .lrc-header {
-    height: 20vh;
-    overflow: hidden;
-    margin-bottom: $mobile-spacing;
-    position: relative;
     background: url('/img/clients/LittleRapidsLogosWithInsightLogo.jpg');
-    background-size: cover;
-    background-position: center center;
-    @include media($tablet) {
-        margin-bottom: $tablet-spacing;
-    }
-    @include media($desktop) {
-        margin-bottom: $desktop-spacing;
-    }
 }
 .redBtn {
     width: -webkit-max-content;
@@ -96,4 +98,23 @@
 }
 #proposals {
   margin-top: 50px;
+}
+.paddedContainer {
+  h2:first-of-type {
+    padding-top: 50px;
+  }
+}
+.marketing-ideas {
+  .blog-right {
+    margin-top: 10px !important;
+  }
+  .secondary-blogs {
+    h2, h3 {
+      text-align: left !important;
+    }
+  }
+  p {
+    margin-left: 0;
+    width: 100% !important;
+  }
 }
