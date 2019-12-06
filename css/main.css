@@ -11096,9 +11096,11 @@ body[data-aos-easing="ease-in-out-quart"] [data-aos], [data-aos][data-aos][data-
 .marketing-ideas .blog-right {
   margin-top: 10px !important; }
 .marketing-ideas .secondary-blogs h2, .marketing-ideas .secondary-blogs h3 {
-  text-align: left !important; }
+  text-align: left !important;
+  font-size: 24px !important; }
 .marketing-ideas p {
   margin-left: 0;
-  width: 100% !important; }
+  width: 100% !important;
+  font-size: 20px !important; }
 
 /*# sourceMappingURL=main.css.map */
