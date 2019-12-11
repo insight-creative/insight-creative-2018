@@ -6328,7 +6328,9 @@ fieldset, table {
     .project-body .images img {
       padding-top: 0.2em 0;
       cursor: pointer;
+      -o-object-fit: cover;
       object-fit: cover;
+      -o-object-position: center;
       object-position: center; }
       @media screen and (min-width: 900px) {
         .project-body .images img {
@@ -6475,6 +6477,7 @@ fieldset, table {
         -moz-transition: all 1s;
         transition: all 1s; }
       .project-body .images img.no-crop {
+        -o-object-fit: fill;
         object-fit: fill;
         height: auto; }
     .project-body .images .fill-back {
@@ -6493,6 +6496,7 @@ fieldset, table {
         margin-right: 6.6666666667%;
         width: 100%;
         position: relative;
+        -o-object-fit: fill;
         object-fit: fill;
         cursor: default; }
         .project-body .images .fill-back img:last-child {
@@ -6606,7 +6610,9 @@ fieldset, table {
     width: 46.6666666667%;
     margin-right: 0;
     width: 50%;
+    -o-object-fit: cover;
     object-fit: cover;
+    -o-object-position: center;
     object-position: center; }
     .nextprevious .next-project:last-child,
     .nextprevious .previous-project:last-child {
@@ -6649,7 +6655,9 @@ fieldset, table {
       /* display: table;   For next/previous solid color */
       width: 100%;
       height: 100%;
+      -o-object-fit: cover;
       object-fit: cover;
+      -o-object-position: center;
       object-position: center;
       margin: 0; }
       .nextprevious .next-project .center-text h2,
@@ -6678,12 +6686,15 @@ fieldset, table {
       .nextprevious .previous-project .center-text img {
         min-width: 100%;
         min-height: 100%;
+        -o-object-fit: cover;
         object-fit: cover;
+        -o-object-position: center;
         object-position: center; }
     .nextprevious .next-project .project,
     .nextprevious .previous-project .project {
       height: 100%;
       width: 100%;
+      -o-object-fit: cover;
       object-fit: cover; }
   .nextprevious .project {
     float: left;
@@ -6693,6 +6704,7 @@ fieldset, table {
     position: relative;
     height: 300px;
     overflow: hidden;
+    -o-object-fit: cover;
     object-fit: cover;
     background-size: cover;
     background-position: center;
@@ -6813,7 +6825,9 @@ fieldset, table {
     .nextprevious .project-image-wrapper img {
       min-width: 100%;
       min-height: 100%;
+      -o-object-fit: cover;
       object-fit: cover;
+      -o-object-position: center;
       object-position: center; }
 
 .back-work {
@@ -6850,6 +6864,51 @@ fieldset, table {
       background: #fbfbfb; }
       .back-work a:hover h2 {
         color: #0c0c0c; }
+
+.bolCaseStudy .images {
+  margin-top: 3em;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between; }
+  .bolCaseStudy .images img {
+    cursor: default !important; }
+  .bolCaseStudy .images .two-thirds {
+    margin-top: 3em; }
+    @media screen and (min-width: 900px) {
+      .bolCaseStudy .images .two-thirds {
+        margin-top: 0; } }
+    @media screen and (min-width: 900px) {
+      .bolCaseStudy .images .two-thirds {
+        width: 61% !important;
+        margin-left: 3em; } }
+    @media screen and (min-width: 1800px) {
+      .bolCaseStudy .images .two-thirds {
+        width: 63% !important; } }
+.bolCaseStudy iframe {
+  margin: 3em 0 0 0; }
+.bolCaseStudy .threeCol .one-third {
+  height: 100% !important; }
+  @media screen and (min-width: 900px) {
+    .bolCaseStudy .threeCol .one-third {
+      width: 29% !important; } }
+  @media screen and (min-width: 1800px) {
+    .bolCaseStudy .threeCol .one-third {
+      width: 30% !important; } }
+.bolCaseStudy .threeCol .first {
+  margin-bottom: 3em; }
+  @media screen and (min-width: 900px) {
+    .bolCaseStudy .threeCol .first {
+      margin-bottom: 0;
+      margin-right: 3em !important; } }
+.bolCaseStudy .threeCol .last {
+  margin-top: 3em; }
+  @media screen and (min-width: 900px) {
+    .bolCaseStudy .threeCol .last {
+      margin-top: 0;
+      margin-left: 3em; } }
 
 .culture-slider {
   position: relative;
