@@ -801,3 +801,33 @@ ul {
     }
   }
 }
+// before-after slider styling
+.sliderContainer {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  margin: 0 auto;
+  @include media($desktop){
+    width: 70%;
+  }
+  @include media($desktop-large){
+    width: 60%;
+  }
+  @include media($desktop-largest){
+    width: 50%;
+  }
+  .beer-reveal[data-beer-label]:after, .beer-slider[data-beer-label]:after {
+    background: $brand-color !important;
+    color: #fff !important;
+    border-radius: 0 !important;
+    font-family: "futura-pt", sans-serif;
+    font-weight: 600;
+  }
+  .wrapper img:last-child {
+    width: 200% !important;
+  }
+  .beer-handle {
+    background: $brand-color !important;
+    color: #fff !important;
+  }
+}

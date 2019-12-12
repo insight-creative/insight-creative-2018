@@ -696,6 +696,10 @@
     -webkit-box-pack: justify;
     -ms-flex-pack: justify;
     justify-content: space-between;
+    flex-direction: column;
+    @include media($desktop) {
+      flex-direction: row;
+    }
     img {
       cursor: default !important;
     }

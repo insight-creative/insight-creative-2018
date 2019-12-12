@@ -77,7 +77,7 @@ $(function() {
     var mixRunning;
     //Run Script that performs navigation hid/show and mobile function
     navigation();
-    
+
     //Run script that applies object-fit pollyfill from obi.min.js
     objectFitImages();
 
@@ -1444,6 +1444,9 @@ $(function() {
       //Run lightbox script
       lightbox();
 
+      //Run before after script
+      beforeAfter();
+
       //If agency page, run video script
       if (page.indexOf("agency") >= 0) {
         video();
@@ -1970,9 +1973,19 @@ $(function() {
         fullScreenVideo.embedVideo();
       }
       //End of video script
-
-
-
+      // Start of the before-after image slider script
+      function beforeAfter() {
+        $.fn.BeerSlider = function( options ) {
+        options = options || {};
+        return this.each( function () {
+          new BeerSlider( this, options );
+        });
+      };
+      $( ".beer-slider" ).each( function( index, el ) {
+        $( el ).BeerSlider( {start: $( el ).data( "start" ) } );
+      });
+      }
+      // End before-after slider script
     }
     //End of runScripts
 });

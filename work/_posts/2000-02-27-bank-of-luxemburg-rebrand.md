@@ -50,38 +50,58 @@ After establishing a solid brand, a comprehensive rollout plan was developed and
 </div>
 
 <div class="images">
-<img class="one-third first fit" data-aos="fade-up"
-alt="Washington Island Ferry New Logo Design" src="/img/projects/bank-of-luxemburg-rebrand/BOL-PullupBanner-2400.jpg"
-srcset="/img/projects/bank-of-luxemburg-rebrand/BOL-PullupBanner-2400.jpg 2400w,
-/img/projects/bank-of-luxemburg-rebrand/BOL-PullupBanner-2400.jpg 1800w,
-/img/projects/bank-of-luxemburg-rebrand/BOL-PullupBanner-2400.jpg 1200w,
-/img/projects/bank-of-luxemburg-rebrand/BOL-PullupBanner-2400.jpg 900w,
-/img/projects/bank-of-luxemburg-rebrand/BOL-PullupBanner-2400.jpg 600w,
-/img/projects/bank-of-luxemburg-rebrand/BOL-PullupBanner-2400.jpg 400w" />
 
-<img class="two-thirds last fit" data-aos="fade-up"
-alt="Washington Island Ferry logo design options" src="/img/projects/bank-of-luxemburg-rebrand/postcard-mockup-1400.jpg"
-srcset="/img/projects/bank-of-luxemburg-rebrand/postcard-mockup-1400.jpg 2400w,
-/img/projects/bank-of-luxemburg-rebrand/postcard-mockup-1400.jpg 1800w,
-/img/projects/bank-of-luxemburg-rebrand/postcard-mockup-1200.jpg 1200w,
-/img/projects/bank-of-luxemburg-rebrand/postcard-mockup-900.jpg 900w,
-/img/projects/bank-of-luxemburg-rebrand/postcard-mockup-600.jpg 600w,
-/img/projects/bank-of-luxemburg-rebrand/postcard-mockup-400.jpg 400w" />
+  <img class="one-third first fit" data-aos="fade-up"
+  alt="Washington Island Ferry New Logo Design" src="/img/projects/bank-of-luxemburg-rebrand/BOL-PullupBanner-2400.jpg"
+  srcset="/img/projects/bank-of-luxemburg-rebrand/BOL-PullupBanner-2400.jpg 2400w,
+  /img/projects/bank-of-luxemburg-rebrand/BOL-PullupBanner-2400.jpg 1800w,
+  /img/projects/bank-of-luxemburg-rebrand/BOL-PullupBanner-2400.jpg 1200w,
+  /img/projects/bank-of-luxemburg-rebrand/BOL-PullupBanner-2400.jpg 900w,
+  /img/projects/bank-of-luxemburg-rebrand/BOL-PullupBanner-2400.jpg 600w,
+  /img/projects/bank-of-luxemburg-rebrand/BOL-PullupBanner-2400.jpg 400w" />
+
+  <img class="two-thirds last fit" data-aos="fade-up"
+  alt="Washington Island Ferry logo design options" src="/img/projects/bank-of-luxemburg-rebrand/postcard-mockup-1400.jpg"
+  srcset="/img/projects/bank-of-luxemburg-rebrand/postcard-mockup-1400.jpg 2400w,
+  /img/projects/bank-of-luxemburg-rebrand/postcard-mockup-1400.jpg 1800w,
+  /img/projects/bank-of-luxemburg-rebrand/postcard-mockup-1200.jpg 1200w,
+  /img/projects/bank-of-luxemburg-rebrand/postcard-mockup-900.jpg 900w,
+  /img/projects/bank-of-luxemburg-rebrand/postcard-mockup-600.jpg 600w,
+  /img/projects/bank-of-luxemburg-rebrand/postcard-mockup-400.jpg 400w" />
+  </div>
+
+  <iframe src="https://www.youtube.com/embed/5MD-eo77rKg" frameborder="0" allowfullscreen></iframe>
+
+  <div class="images threeCol">
+  <img class="one-third first fit" data-aos="fade-up"
+  alt="Washington Island Ferry New Logo Design" src="/img/projects/bank-of-luxemburg-rebrand/BOL-MobileWallet-480.jpg" />
+
+  <img class="one-third fit" data-aos="fade-up"
+  alt="Washington Island Ferry New Logo Design" src="/img/projects/bank-of-luxemburg-rebrand/BOL-MobileApp-480.jpg" />
+
+  <img class="one-third last fit" data-aos="fade-up"
+  alt="Bank of Luxemburg " src="/img/projects/bank-of-luxemburg-rebrand/BOL-HELOC-480.jpg" />
+  </div>
+
+  <iframe src="https://www.youtube.com/embed/dseS9u1kzbE" frameborder="0" allowfullscreen></iframe>
+
 </div>
 
-<iframe src="https://www.youtube.com/embed/5MD-eo77rKg" frameborder="0" allowfullscreen></iframe>
+<div class="spacer"></div>
 
-<div class="images threeCol">
-<img class="one-third first fit" data-aos="fade-up"
-alt="Washington Island Ferry New Logo Design" src="/img/projects/bank-of-luxemburg-rebrand/BOL-MobileWallet-480.jpg" />
-
-<img class="one-third fit" data-aos="fade-up"
-alt="Washington Island Ferry New Logo Design" src="/img/projects/bank-of-luxemburg-rebrand/BOL-MobileApp-480.jpg" />
-
-<img class="one-third last fit" data-aos="fade-up"
-alt="Bank of Luxemburg " src="/img/projects/bank-of-luxemburg-rebrand/BOL-HELOC-480.jpg" />
-</div>
-
-<iframe src="https://www.youtube.com/embed/dseS9u1kzbE" frameborder="0" allowfullscreen></iframe>
-
+<div class="testimonial" data-aos="fade-up">
+  <h2 data-aos="fade-up" data-aos-anchor=".testimonial" data-aos-delay="600"><i class="fa fa-quote-left" aria-hidden="true"></i></h2>
+  <div class="testimonials" data-aos="fade-up">
+    <ul id="testimonials-ul">
+      <li>
+        <div class="quote" data-aos-anchor=".testimonial" data-aos="fade-up" data-aos-delay="800">
+          <p>
+            Bank of Luxemburg has been extremely pleased with the results of the rebranding initiative ... I believe that Insight Creative was instrumental in the success of this project. They guided our rebranding team and made sure that it was delivered on time, in budget and answered any of our questions along the way. They were able to come up with a marketing plan that captured the essence of our bank and was very well received by our community and customers. Above all, they made the overall process very easy for me, the bank president, which allowed me to concentrate on other aspects of the bank’s strategic plan.
+          </p>
+        </div>
+        <h2 data-aos="fade-up" data-aos-anchor=".testimonial" data-aos-delay="1200">Tim Treml</h2>
+        <h3 data-aos="fade-up" data-aos-anchor=".testimonial" data-aos-delay="1600">Bank of Luxemburg</h3>
+      </li>
+    </ul>
+  </div>
 </div>

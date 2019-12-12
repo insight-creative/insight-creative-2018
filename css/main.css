@@ -6872,7 +6872,11 @@ fieldset, table {
   display: flex;
   -webkit-box-pack: justify;
   -ms-flex-pack: justify;
-  justify-content: space-between; }
+  justify-content: space-between;
+  flex-direction: column; }
+  @media screen and (min-width: 900px) {
+    .bolCaseStudy .images {
+      flex-direction: row; } }
   .bolCaseStudy .images img {
     cursor: default !important; }
   .bolCaseStudy .images .two-thirds {
@@ -8831,6 +8835,32 @@ fieldset, table {
 
 ul ul li {
   list-style-type: circle !important; }
+
+.sliderContainer {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  margin: 0 auto; }
+  @media screen and (min-width: 900px) {
+    .sliderContainer {
+      width: 70%; } }
+  @media screen and (min-width: 1200px) {
+    .sliderContainer {
+      width: 60%; } }
+  @media screen and (min-width: 1800px) {
+    .sliderContainer {
+      width: 50%; } }
+  .sliderContainer .beer-reveal[data-beer-label]:after, .sliderContainer .beer-slider[data-beer-label]:after {
+    background: #d31145 !important;
+    color: #fff !important;
+    border-radius: 0 !important;
+    font-family: "futura-pt", sans-serif;
+    font-weight: 600; }
+  .sliderContainer .wrapper img:last-child {
+    width: 200% !important; }
+  .sliderContainer .beer-handle {
+    background: #d31145 !important;
+    color: #fff !important; }
 
 .contact-info {
   margin-bottom: 3em;
