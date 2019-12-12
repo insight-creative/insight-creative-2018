@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Branding: Is it Time to Turn the Page"
+title: "Branding: Is it Time to Turn the Page?"
 author: Sam Rowe
 description: "Rebranding is a huge step for any company. When executed successfully, a rebrand can help a business grow, boost brand recognition, and create enthusiasm. Learn more about when it may be time for a rebrand."
 text-color: 'ffffff'
@@ -19,7 +19,7 @@ srcset="
 /img/blog/Bank-of-Luxemburg-Rebrand-600.jpg 600w,
 /img/blog/Bank-of-Luxemburg-Rebrand-400.jpg 400w" />
 
-Throughout 2019, we’ve had the awesome privilege of guiding several clients through exciting rebrand initiatives. These projects have ranged from a clean logo and website refresh for our friends at Fox Structures to full-blown rebrands for Washington Island Ferry and Bank of Luxemburg. In all of these cases, the existing brands were established within the early years of each business. Their logos and brands were no longer serving their purpose to accurately reflect the mission and personality of the businesses they represented.
+Throughout 2019, we’ve had the privilege of guiding several clients through exciting rebrand initiatives. These projects have ranged from a clean logo and website refresh for our friends at Fox Structures to full-blown rebrands for Washington Island Ferry and Bank of Luxemburg. In all of these cases, the existing brands were established within the early years of each business. Their logos and brands were no longer serving their purpose to accurately reflect the mission and personality of the businesses they represented.
 
 <div class="sliderContainer">
   <div id="slider" class="beer-slider" data-beer-label="After">
@@ -42,7 +42,7 @@ Throughout 2019, we’ve had the awesome privilege of guiding several clients th
   </div>
 </div>
 
-Rebranding is a huge step for any company. When executed successfully, a rebrand can help a business grow, boost brand recognition, and create enthusiasm. On average, brands change their identities every 7-10 years. However, it is important to approach this decision thoughtfully and strategically before you go ahead with it. Every brand is different and should be assessed on an individual basis. If any of the following apply to your brand, it may be time to consider a rebrand:
+Rebranding is a huge step for any company. When executed successfully, a rebrand can help a business grow, boost brand recognition and create enthusiasm. On average, brands change their identities every 7-10 years. However, it is important to approach this decision thoughtfully and strategically before you go ahead with it. Every brand is different and should be assessed on an individual basis. If any of the following apply to your brand, it may be time to consider a rebrand:
 
 * Your identity looks like many other logos in your industry
 * Your company has a new or larger audience
@@ -53,4 +53,4 @@ Rebranding is a huge step for any company. When executed successfully, a rebrand
 * You’re recovering from a bad reputation
 * Your brand is inconsistent or weak
 
-If you’re nodding along with any of these points, you likely need to take the next step toward a rebrand. We here at Insight know as well as anybody that a rebrand is an immense, time-consuming (and many times expensive) task, and you’ll need a trustworthy and dedicated team to execute it. Contact us today, and we can help you determine your branding needs while taking great care of both you, your customers and your brand.
+If you’re nodding along with any of these points, you likely need to take the next step toward a rebrand. At Insight, we understand that a rebrand is an immense, time-consuming (and many times expensive) task, and you’ll need a trustworthy and dedicated team to execute it. Contact us today, and we can help you determine your branding needs while taking great care of both you, your customers and your brand.
