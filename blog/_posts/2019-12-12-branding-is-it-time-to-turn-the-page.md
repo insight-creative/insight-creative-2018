@@ -19,7 +19,7 @@ srcset="
 /img/blog/Bank-of-Luxemburg-Rebrand-600.jpg 600w,
 /img/blog/Bank-of-Luxemburg-Rebrand-400.jpg 400w" />
 
-Throughout 2019, we’ve had the privilege of guiding several clients through exciting rebrand initiatives. These projects have ranged from a clean logo and website refresh for our friends at Fox Structures to full-blown rebrands for Washington Island Ferry and Bank of Luxemburg. In all of these cases, the existing brands were established within the early years of each business. Their logos and brands were no longer serving their purpose to accurately reflect the mission and personality of the businesses they represented.
+Throughout 2019, we’ve had the privilege of guiding several clients through exciting rebrand initiatives. These projects have ranged from a clean logo and website refresh for our friends at <a href="/work/a-bold-brand-remodel-fox-structures.html">Fox Structures</a> to full-blown rebrands for <a href="/work/rebranding-an-anchored-identity.html">Washington Island Ferry</a> and <a href="/work/bank-of-luxemburg-rebrand.html">Bank of Luxemburg</a>. In all of these cases, the existing brands were established within the early years of each business. Their logos and brands were no longer serving their purpose to accurately reflect the mission and personality of the businesses they represented.
 
 <div class="sliderContainer">
   <div id="slider" class="beer-slider" data-beer-label="After">
