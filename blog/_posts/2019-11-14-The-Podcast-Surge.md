@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "The Podcast Surge"
+title: "The podcast surge"
 author: Talia Radke
 description: "Have you noticed how popular podcasts have become? Between celebrities, journalists, industry experts or even some of your own friends and family, it seems everyone has a launched their own podcast. Learn how advertising on podcasts can benefit your business."
 text-color: 'ffffff'

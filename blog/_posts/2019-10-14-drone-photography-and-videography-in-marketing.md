@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Drone Photography and Videography in Marketing"
+title: "Elevate your marketing with drone footage"
 author: Bryce Van Laanen
 description: "When you’re talking about taking photography and videography to the next level a drone provides aerial content to capture unique and desirable looking photos and videos. Learn how drone photography and videography can enhance your marketing efforts."
 text-color: 'ffffff'

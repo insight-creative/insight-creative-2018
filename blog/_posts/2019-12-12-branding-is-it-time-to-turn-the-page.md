@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Branding: Is it Time to Turn the Page?"
+title: "Branding: Is it time to turn the page?"
 author: Sam Rowe
 description: "Rebranding is a huge step for any company. When executed successfully, a rebrand can help a business grow, boost brand recognition, and create enthusiasm. Learn more about when it may be time for a rebrand."
 text-color: 'ffffff'
