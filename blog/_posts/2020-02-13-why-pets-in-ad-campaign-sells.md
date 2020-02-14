@@ -31,4 +31,4 @@ When you dig deeper you realize **animals provide a common ground**. Gender, rac
 
 And while some animals literally have to fight for daily survival, **animals feel non-threatening**.  In a society that fosters competitiveness, it’s refreshing to connect with something that loves you simply because you’re YOU.
 
-We are exposed to hundreds of messaging every day asking us to buy this and do that. Next time you concept a new brand campaign, see if you can build your ideas around one of God’s creatures. After all, it worked for Budweiser.
+We are exposed to hundreds of messages every day asking us to buy this and do that. Next time you concept a new brand campaign, see if you can build your ideas around one of God’s creatures. After all, it worked for Budweiser.
