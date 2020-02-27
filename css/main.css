@@ -11179,6 +11179,17 @@ body[data-aos-easing="ease-in-out-quart"] [data-aos], [data-aos][data-aos][data-
 #proposals {
   margin-top: 50px; }
 
+.single .client-project {
+  display: flex;
+  justify-content: center; }
+  .single .client-project a {
+    width: 100%; }
+    @media screen and (min-width: 1200px) {
+      .single .client-project a {
+        width: 50%; } }
+    .single .client-project a .project {
+      width: 100%; }
+
 .paddedContainer h2:first-of-type {
   padding-top: 50px; }
 

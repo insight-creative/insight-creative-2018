@@ -99,6 +99,21 @@
 #proposals {
   margin-top: 50px;
 }
+.single {
+  .client-project {
+    display: flex;
+    justify-content: center;
+    a {
+      width: 100%;
+      @include media($desktop-large) {
+        width: 50%;
+      }
+      .project {
+        width: 100%;
+      }
+    }
+  }
+}
 .paddedContainer {
   h2:first-of-type {
     padding-top: 50px;
