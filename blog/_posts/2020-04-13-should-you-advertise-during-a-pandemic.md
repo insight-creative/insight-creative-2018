@@ -2,7 +2,7 @@
 layout: blog
 title: "Should you continue to advertise during a pandemic?"
 author: Molly Setzer
-description: "People often visit websites because they’re seeking a solution to a problem they’re having. They may need a product, service or information as a solution. Learn more about why your website needs to focus on solving these problems and delivering value to real people."
+description: "One question on everyone’s mind right now, should you continue to advertise during a pandemic? Discover five reasons why you should seriously consider it."
 text-color: 'ffffff'
 back-color: 'd31145'
 cover-image: should-you-advertise-during-pandemic-2000.jpg
