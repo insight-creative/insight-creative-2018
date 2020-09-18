@@ -2,7 +2,7 @@
 layout: blog
 title: "How to Keep Organized"
 author: Molly Setzer
-description: ""
+description: "You don't have to wait until Jan.1 to start a new habit."
 text-color: 'ffffff'
 back-color: 'd31145'
 cover-image: how-to-keep-organized-2500.jpg
