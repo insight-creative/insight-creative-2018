@@ -93,13 +93,13 @@
   image2: /img/employees/emily/emily-4.png
   image3: /img/employees/emily/emily-4.png
 
-- name: Talia Radke
-  job_title: Social Media/Digital Content Specialist
-  bio: "Talia brings a unique blend of creativity and corporate experience to her role as social media/digital content specialist.  As an essential part of the content department, she is able to showcase her diverse writing expertise and technical skills through her innovative social media strategies.  Talia holds a degree from UW-Stevens Point in business administration with an emphasis on marketing."
+- name: Andrea Lasecki
+  job_title: Social Media Specialist
+  bio: "Andrea draws on years of marketing experience and impressive creative writing skills to lead Insight's social media efforts. She got her start at two large Milwaukee agencies where she gained a wealth of experience in national social media strategies for the sports and entertainment industries. Her incredible tech-savvy, natural curiosity and strong understanding of emerging digital trends make Andrea the valuable voice behind our clients’ many social platforms. She holds a degree in life sciences communication from University of Wisconsin—Madison, plus a nursing degree from Northeast Wisconsin Technical College."
   color: magenta
-  image1: /img/employees/talia/Talia.png
-  image2: /img/employees/talia/Talia.png
-  image3: /img/employees/talia/Talia.png
+  image2: /img/employees/andrea/Andrea-1.png
+  image1: /img/employees/andrea/Andrea-1.png
+  image3: /img/employees/andrea/Andrea-1.png
 
 # - name: Bart Raboin
 #   job_title: Interactive/Web Designer
