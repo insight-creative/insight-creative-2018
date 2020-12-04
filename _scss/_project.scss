@@ -746,3 +746,29 @@
     }
   }
 }
+.ho-chunk-case-study {
+    .images img.one-third, .images img.half {
+       margin-bottom: 1rem;
+    }
+    @include media($desktop) {
+        .images img.one-third, .images img.half {
+            margin-bottom: 0;
+        }
+    }
+    @include media($desktop-large) { 
+        .images img.one-third {
+            height: 500px;
+        }
+    }
+    .row-2, .row-3 {
+        margin-top: 0;
+    }
+    .row-3 {
+        img {
+            object-fit: inherit;
+        }
+        img.half {
+            height: 100%;
+        }
+    }
+  }
