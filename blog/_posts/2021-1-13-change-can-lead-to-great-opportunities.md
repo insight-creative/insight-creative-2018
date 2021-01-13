@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Change is Necessary and Good for Business"
+title: "Change can Lead to Great Opportunities"
 author: Niki Petit
 description: "COVID-19 has taught us innovation and adaptability lead to success."
 text-color: 'ffffff'
