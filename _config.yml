@@ -1,5 +1,6 @@
 name: Insight Creative, Inc.
 markdown: kramdown
+url: https://insightcreative.com
 highlighter: rouge # or rouge or null
 exclude: ["node_modules", "gulpfile.js", "package.json", "unsized-img"]
 include: ["_redirects"]
