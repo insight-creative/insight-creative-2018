@@ -1,0 +1,30 @@
+---
+label: Blog Post Front Matter
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: text
+  name: author
+  label: author
+- type: textarea
+  name: description
+  label: description
+- type: text
+  name: text-color
+  label: text-color
+- type: text
+  name: back-color
+  label: back-color
+- type: file
+  name: cover-image
+  label: cover-image
+- type: text
+  name: tag
+  label: tag
+pages:
+- blog/_posts/2021-03-29-streaming-tv-it-s-time-to-get-in-the-game.md
