@@ -12,6 +12,8 @@ sections:
   label: Blog Posts
   create: all
   match: "*.md"
+  templates: 
+  - blog
 - type: jekyll-pages
   label: Pages
   create: all
