@@ -8,17 +8,15 @@ sections:
   label: Posts
   create: all
 - type: directory
-  label: Blog
-  path: "blog/_posts"
-  match: "*.md"
-  templates: 
-  - blog
+  path: blog/_posts
+  label: Blog Posts
   create: all
+  match: "*.md"
 - type: jekyll-pages
   label: Pages
   create: all
-upload_dir: img/blog
-public_path: "img/blog"
+upload_dir: uploads
+public_path: "/uploads"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
