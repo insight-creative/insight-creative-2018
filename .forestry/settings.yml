@@ -11,12 +11,14 @@ sections:
   label: Blog
   path: "blog/_posts"
   match: "*.md"
+  templates: 
+  - blog
   create: all
 - type: jekyll-pages
   label: Pages
   create: all
-upload_dir: uploads
-public_path: "/uploads"
+upload_dir: img/blog
+public_path: "img/blog"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
