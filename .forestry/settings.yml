@@ -24,9 +24,8 @@ build:
   preview_env:
   - JEKYLL_ENV=staging
   preview_output_directory: _site
-  install_dependencies_command: bundle install --path vendor/bundle
-  preview_docker_image: forestryio/ruby:2.6
-  mount_path: "/srv"
+  install_dependencies_command: npm install
+  preview_docker_image: _site
+  mount_path: _site
   working_dir: "/srv"
-  instant_preview_command: bundle exec jekyll serve --drafts --unpublished --future
-    -d _site
+  instant_preview_command: gulp
