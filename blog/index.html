@@ -8,7 +8,11 @@ title: Blog | Marketing Agency in Green Bay, WI | Insight Creative, Inc.
         <div class="featured-blog" data-aos="fade-up">
             {% for post in site.categories.blog limit:1 %}
             <a href="{{ post.url }}">
+                {% if post.cover-image %}
                 <div class="blog-thumbnail" style="background-image:url('/img/blog/{{ post.cover-image }}')"></div>
+                {% else %}
+                <div class="blog-thumbnail" style="background-image:url('{{ post.featured-image }}')"></div>
+                {% endif %}
                 <div class="blog-info" style="background-color:#{{ post.back-color }}">
                     <h2 data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-anchor=".featured-blog" style="color:#{{ post.text-color }}">{{ post.title }}</h2>
                     <h3 data-aos="fade-up" data-aos-delay="400" data-aos-easing="ease-in-out" data-aos-anchor=".featured-blog" style="color:#{{ post.text-color }}">by <strong>{{ post.author }}</strong></h3>
@@ -20,7 +24,11 @@ title: Blog | Marketing Agency in Green Bay, WI | Insight Creative, Inc.
             {% for post in site.categories.blog offset:1 limit:4 %} {% assign loopindex = forloop.index | modulo: 2 %} {% if loopindex == 1 %}
             <a href="{{ post.url }}">
                 <div class="blog-right" data-aos="fade-up" style="background-color:#{{ post.back-color }}">
+                    {% if post.cover-image %}
                     <div class="blog-thumbnail" style="background-image:url('/img/blog/{{ post.cover-image }}')"></div>
+                    {% else %}
+                    <div class="blog-thumbnail" style="background-image:url('{{ post.featured-image }}')"></div>
+                    {% endif %}
                     <div class="blog-info">
                         <h2 data-aos="fade-up" data-aos-delay="200" style="color:#{{ post.text-color }}">{{ post.title }}</h2>
                         <h3 data-aos="fade-up" data-aos-delay="400" style="color:#{{ post.text-color }}">by <strong>{{ post.author }}</strong></h3>
@@ -30,7 +38,11 @@ title: Blog | Marketing Agency in Green Bay, WI | Insight Creative, Inc.
             {% else %}
             <a href="{{ post.url }}">
                 <div class="blog-left" data-aos="fade-up" style="background-color:#{{ post.back-color }}">
+                    {% if post.cover-image %}
                     <div class="blog-thumbnail" style="background-image:url('/img/blog/{{ post.cover-image }}')"></div>
+                    {% else %}
+                    <div class="blog-thumbnail" style="background-image:url('{{ post.featured-image }}')"></div>
+                    {% endif %}
                     <div class="blog-info">
                         <h2 data-aos="fade-up" data-aos-delay="200" style="color:#{{ post.text-color }}">{{ post.title }}</h2>
                         <h3 data-aos="fade-up" data-aos-delay="400" style="color:#{{ post.text-color }}">by <strong>{{ post.author }}</strong></h3>

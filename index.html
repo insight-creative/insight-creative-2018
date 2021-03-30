@@ -203,7 +203,11 @@ description: An advertising agency with a vision to bring complete strategic dev
         {% for post in site.categories.blog limit:1 %} {% assign loopindex = forloop.index | modulo: 2 %}
         <a href="{{ post.url }}">
           <div class="blog-right" style="background-color:#{{ post.back-color }}">
+            {% if post.cover-image %}
             <div class="blog-thumbnail" style="background-image:url('/img/blog/{{ post.cover-image }}')"></div>
+            {% else %}
+            <div class="blog-thumbnail" style="background-image:url('{{ post.featured-image }}')"></div>
+            {% endif %}
             <div class="blog-info">
               <h2 style="color:#{{ post.text-color }}">{{ post.title }}</h2>
               <h3 style="color:#{{ post.text-color }}">by <strong>{{ post.author }}</strong></h3>

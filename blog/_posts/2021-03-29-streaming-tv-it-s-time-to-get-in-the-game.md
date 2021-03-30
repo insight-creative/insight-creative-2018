@@ -5,11 +5,11 @@ author: Molly Setzer
 description: ''
 text-color: ffffff
 back-color: d31145
-cover-image: img/blog/streaming-tv-2500.jpg
+featured-image: /img/blog/streaming-tv-2500.jpg
 tag: blog
 
 ---
-![Close up of remote with TV in the background](img/blog/streaming-tv-2500.jpg)
+![Close up of remote with TV in the background](/img/blog/streaming-tv-2500.jpg)
 
 Streaming TV has been around for awhile, and if you haven’t already included it in your media plan, you may be missing the boat. People were already streaming their favorite shows before COVID kept them chained to their homes. However, after the pandemic those numbers certainly increased, as more people were in front of devices than ever, and these audiences continue to rise!
 
