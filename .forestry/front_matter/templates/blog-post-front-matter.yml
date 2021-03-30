@@ -21,10 +21,8 @@ fields:
   name: back-color
   label: back-color
 - type: file
-  name: cover-image
-  label: cover-image
+  name: featured-image
+  label: featured-image
 - type: text
   name: tag
   label: tag
-pages:
-- blog/_posts/2021-03-30-streaming-tv-it-s-time-to-get-in-the-game.md
