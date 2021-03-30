@@ -4,12 +4,9 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: jekyll-posts
-  label: Posts
-  create: all
 - type: directory
   path: blog/_posts
-  label: Blog Posts
+  label: Posts
   create: all
   match: "*.md"
 - type: jekyll-pages
