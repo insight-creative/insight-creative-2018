@@ -5,7 +5,7 @@ author: Molly Setzer
 description: ''
 text-color: ffffff
 back-color: d31145
-featured-image: /img/blog/streaming-tv-2500.jpg
+featured-image: "/img/blog/streaming-tv-2500.jpg"
 tag: blog
 
 ---
@@ -54,5 +54,3 @@ So how do streaming TV ads figure into an advertiser’s overall budget?
 It depends. Streaming TV ads aren’t necessarily cheap. They can cost around $50 CPM (cost per thousand) when advanced targeting is applied. (It varies with all streaming networks, of course, and pricing remains fluid.) How many impressions should you buy? That really depends on whether you are the big fish or the small fish. A small, local company could benefit from 50,000 impressions per month yet not make a dent for the larger ones, who may want to consider buying as many as six times that amount to build the best frequency. Rest assured though, video completion rate is high as noted earlier because these folks can’t skip your ad like they can in other situations.
 
 As always, if you need help with your media buying decisions, think of the professional advertising team at Insight Creative, Inc.
-
-Molly Setzer, Media Director
