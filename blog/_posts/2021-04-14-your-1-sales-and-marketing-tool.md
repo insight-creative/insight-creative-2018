@@ -21,4 +21,4 @@ The marketing tactics used in media buys, the size of your advertising budget, t
 
 The adage that “the customer is always right” is antiquated ... but customers are, after all, the component in any equation that keeps your business flourishing! Taking care of customers will reinforce your external brand and make your marketing tactics even more effective.
 
-If you need help developing your brand, give Insight a call. I promise we’ll smile and say “hi!”
+If you need help developing your brand, give Insight a call. I promise we’ll smile and say “hi!” test
