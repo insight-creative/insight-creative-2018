@@ -9,6 +9,8 @@ featured-image: "/img/blog/jay-bauer-overview-of-social-media-profiles.jpg"
 tag: ''
 
 ---
+![](/img/blog/jay-bauer-overview-of-social-media-profiles.jpg)
+
 Social media has gotten a bad rap a lot lately. People say “it’s so toxic or political or negative.” Yes, that can be true, but it also helps connect us in a very profound way.
 
 Part of it for me is the generation I grew up in. There will be no other generation like it. I grew up in the 80s when there was no social media, no internet and no smartphones. So, to have social media come about after I graduated high school and college, I believe gives me a unique perspective.
