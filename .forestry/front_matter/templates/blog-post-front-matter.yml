@@ -26,3 +26,5 @@ fields:
 - type: text
   name: tag
   label: tag
+pages:
+- blog/_posts/social-media-can-be-good-for-you.md
