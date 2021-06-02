@@ -3,8 +3,8 @@ layout: blog
 title: Three Facebook changes every business should anticipate
 author: Andrea Lasecki
 description: ''
-text-color: "#ffffff"
-back-color: "#cd1f40"
+text-color: ffffff
+back-color: cd1f40
 featured-image: "/img/blog/beyonce-new-facebook-profile-preview.jpg"
 tag: ''
 
