@@ -26,3 +26,5 @@ fields:
 - type: text
   name: tag
   label: tag
+pages:
+- blog/_posts/three-facebook-changes-every-business-should-anticipate.md
