@@ -34,6 +34,8 @@ Other advertisers used their platforms to spread messages of hope and resilience
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WA4dDs0T7sM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<iframe src='//players.brightcove.net/377748811/default_default/index.html?videoId=6177026096001' allowfullscreen frameborder=0></iframe>
+
 Here at Insight, we’ve had to tackle many unconventional projects due to the pandemic. From lobby closures and new procedure notices at Bank of Luxemburg to implementing social distancing guidelines through environmental and social graphics at Ho-Chunk Gaming Nekoosa, we’ve been able to creatively and quickly respond to the changing needs of our clients throughout 2020.
 
 <img data-aos="fade-up" src="/img/blog/BOL-2020-campaign-graphics-1800.jpg"
